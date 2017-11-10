@@ -1,0 +1,12 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+  </component>
+  <component name="Go">
+    <option name="renameSearchInCommentsForFunction" value="false" />
+    <option name="renameSearchInCommentsForType" value="false" />
+    <option name="renameSearchInCommentsForVariable" value="false" />
+  </component>
+</application>

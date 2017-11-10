@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="!pb.go" />
+    <recentFileMasks>
+      <mask>!_tes.go</mask>
+      <mask>!_te.go</mask>
+      <mask>!_t.go</mask>
+      <mask>!_ob.go</mask>
+      <mask>!_o.go</mask>
+      <mask>!_.go</mask>
+      <mask>!_p.go</mask>
+      <mask>!_pb.go</mask>
+      <mask>!pb*go</mask>
+      <mask>!pbgo</mask>
+      <mask>!.,pb.go</mask>
+      <mask>!(.pb.go)</mask>
+      <mask>!(.pb.go</mask>
+      <mask>!.pb.go</mask>
+      <mask>.pb.go</mask>
+      <mask>.p.go</mask>
+      <mask>.go</mask>
+      <mask>.g</mask>
+      <mask>.</mask>
+      <mask>gith</mask>
+      <mask>git</mask>
+      <mask>gi</mask>
+      <mask>g</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*pb</mask>
+      <mask>*pb.</mask>
+      <mask>*pb.go</mask>
+      <mask>pb.go</mask>
+      <mask>!pb.go</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,330 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/a.dummy" timestamp="1510322154765">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7683193-aa05-481c-80bf-1905c55f41d5/console.sql" timestamp="1509239768787">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/server.go" timestamp="1508510145336">
+        <mark key="[" line="126" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/bill_event_backfill.go" timestamp="1508524070173">
+        <mark key="[" line="133" column="111" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
+        <mark key="[" line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/web/httprpc_client.go" timestamp="1510282412868">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
+        <mark key="[" line="66" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
+        <mark key="[" line="71" column="41" />
+      </file>
+      <file name="/dlv-debug.txt" timestamp="1510255045165">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
+        <mark key="[" line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/module_test.go" timestamp="1510322228224">
+        <mark key="[" line="390" column="61" />
+        <mark key="]" line="390" column="68" />
+        <mark key="^" line="390" column="68" />
+        <mark key="." line="390" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/server.go" timestamp="1510154672011">
+        <mark key="[" line="55" column="35" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module.go" timestamp="1510321578747">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/util/catalog.go" timestamp="1510229482352">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-common.yaml" timestamp="1510175150618">
+        <mark key="[" line="79" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1510261832773">
+        <mark key="[" line="959" column="4" />
+        <mark key="]" line="959" column="54" />
+        <mark key="." line="959" column="54" />
+        <mark key="^" line="959" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510240460000">
+        <mark key="[" line="2731" column="34" />
+        <mark key="]" line="2225" column="12" />
+        <mark key="." line="2225" column="12" />
+        <mark key="^" line="2225" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/module.go" timestamp="1510321605252">
+        <mark key="[" line="75" column="18" />
+        <mark key="]" line="75" column="18" />
+        <mark key="^" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
+        <mark key="[" line="418" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
+        <mark key="[" line="131" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1510251104329">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1509240032582">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510164553868">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/items.proto" timestamp="1510264767340">
+        <mark key="[" line="318" column="68" />
+        <mark key="]" line="318" column="68" />
+        <mark key="." line="318" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/comparison_test.go" timestamp="1510337504995">
+        <mark key="]" line="65" column="22" />
+        <mark key="^" line="65" column="22" />
+        <mark key="." line="65" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
+        <mark key="[" line="51" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/config/test-development.yaml" timestamp="1510251044660">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module_test.go" timestamp="1510320644276">
+        <mark key="[" line="311" column="10" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/server_test.go" timestamp="1510256747455">
+        <mark key="[" line="328" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="111" column="8" filename="$USER_HOME$/Development/go/src/square/up/items/v3_command_test/fix_page_tile_v3_command_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/square/up/xp/server/merchant_catalog_connect_v2_test.go" />
+      <jump line="2244" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/v3_api_test_1/merchant_api_1_test.go" />
+      <jump line="35" column="28" filename="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/server.go" />
+      <jump line="119" column="27" filename="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/server.go" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/protos/squareup/client/posfe/inventory/inventory_service.proto" />
+      <jump line="129" column="39" filename="$USER_HOME$/Development/go/src/square/up/service/datasource/module.go" />
+      <jump line="36" column="21" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/module.go" />
+      <jump line="309" column="87" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" />
+      <jump line="285" column="37" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context_test.go" />
+      <jump line="351" column="67" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" />
+      <jump line="347" column="12" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" />
+      <jump line="179" column="29" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" />
+      <jump line="78" column="35" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" />
+      <jump line="860" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments_test.go" />
+      <jump line="1672" column="42" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/bill_adjustments_test.go" />
+      <jump line="114" column="12" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/bulk_imports_test.go" />
+      <jump line="206" column="46" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_average_computation_test.go" />
+      <jump line="347" column="57" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_cleanup_test.go" />
+      <jump line="296" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_computation_status_test.go" />
+      <jump line="617" column="47" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments_test.go" />
+      <jump line="559" column="40" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/counts_test.go" />
+      <jump line="525" column="45" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/label_printing_test.go" />
+      <jump line="673" column="4" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments_test.go" />
+      <jump line="38" column="35" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/lock_test.go" />
+      <jump line="1615" column="37" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" />
+      <jump line="388" column="18" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_update_test.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/Development/go/src/square/up/protos/protos/squareup/inventory/notifiersupport.proto" />
+      <jump line="2264" column="62" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions_translator_test.go" />
+      <jump line="1099" column="47" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" />
+      <jump line="164" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" />
+      <jump line="156" column="28" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/current_product_state_test.go" />
+      <jump line="172" column="33" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/current_product_state.go" />
+      <jump line="623" column="55" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="1742" column="63" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/billevents/bill_events_test.go" />
+      <jump line="370" column="41" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service.go" />
+      <jump line="338" column="24" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service.go" />
+      <jump line="148" column="16" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="1944" column="11" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="3157" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="1904" column="64" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="2755" column="45" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="1323" column="35" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="1202" column="16" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="632" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="629" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service_test.go" />
+      <jump line="121" column="0" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/module.go" />
+      <jump line="11" column="11" filename="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/test/boxer.go" />
+      <jump line="2400" column="101" filename="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_test.go" />
+      <jump line="2441" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_test.go" />
+      <jump line="2534" column="69" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/merchant_db_test/merchant_db_test.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/merchant_db_test/merchant_db_test.go" />
+      <jump line="2575" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/merchant_db_test/merchant_db_test.go" />
+      <jump line="3641" column="57" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" />
+      <jump line="1118" column="0" filename="$USER_HOME$/Development/go/src/square/up/items/model/item_item_modifier_list_membership_test.go" />
+      <jump line="26" column="23" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="41" column="78" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="110" column="19" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="112" column="4" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="182" column="6" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="206" column="14" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="207" column="6" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="208" column="29" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="209" column="6" filename="$USER_HOME$/Development/go/src/square/up/service/web/module.go" />
+      <jump line="150" column="40" filename="$USER_HOME$/Development/go/src/square/up/service/status/status.go" />
+      <jump line="60" column="5" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/query.go" />
+      <jump line="158" column="9" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="4">
+        <text>itemCogsID</text>
+      </register>
+      <register name="-" type="4">
+        <text>itemCogsID</text>
+      </register>
+      <register name="/" type="4">
+        <text>GetAppStatus</text>
+      </register>
+      <register name="o" type="4">
+        <text>re</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQlRdWFudGl0eTogcHJvdG8uU3RyaW5nKCIxMCIpLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQl9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJSXRlbTogJml0ZW1zdjEuSXRlbXtJZDogcHJvdG8uU3RyaW5nKGl0ZW1Db2dzSUQpfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQlXcml0ZU9ubHlCYWNraW5nRGV0YWlsczogJmJpbGxzLkl0ZW1pemF0aW9uX0JhY2tpbmdEZXRhaWxzewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCVVuaXRUb2tlbjogICAgICBwcm90by5TdHJpbmcodW5pdFRva2VuKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCUZlZWRFbnRyeVRva2VuOiBwcm90by5TdHJpbmcoZmVlZEVudHJ5VG9rZW4pLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5TZWNvbmQpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWFwcC5Kb2IuSm9icXVldWUuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>GetAppStatus</last-search>
+      <last-offset />
+      <last-pattern>GetAppStatus</last-pattern>
+      <last-replace>AddRefundItemization</last-replace>
+      <last-substitute>AddNewItemization</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxDdXJyZW50UHJvZHVjdFN0YXRlUHJvZHVjdFN0YXRlXD4=</entry>
+        <entry>iv</entry>
+        <entry>hlsearch</entry>
+        <entry>get stock</entry>
+        <entry encoding="base64">XDxEQlw+</entry>
+        <entry>testdata</entry>
+        <entry>details.GetBillEventToken()</entry>
+        <entry>details.GetLegacyInventoryAdjustmentAssociatedToken()</entry>
+        <entry>NewBillEventJobRequestBuilder</entry>
+        <entry>NewRefundBillEventJobRequestBuilder</entry>
+        <entry>NewExchangeBillEventJobRequestBuilder</entry>
+        <entry>AddNewItemization</entry>
+        <entry encoding="base64">XDxpdGVtXD4=</entry>
+        <entry>pretty</entry>
+        <entry>hello</entry>
+        <entry>fmt.Println</entry>
+        <entry>\/status</entry>
+        <entry>status</entry>
+        <entry>getappstatus</entry>
+        <entry>GetAppStatus</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/db.squalor/sq/gc</entry>
+        <entry>%s/appDB/metaDB/gc</entry>
+        <entry>%s/req.InventoryUserId/userID/gc</entry>
+        <entry>%s/req.MerchantToken/requests[i].MerchantToken/gc</entry>
+        <entry>%s/getMetaDB/getMerchantDB/gc</entry>
+        <entry>%s/getMetaDB/getMerchantDB/g</entry>
+        <entry>%s/testdata/testingdata/g</entry>
+        <entry>%s/details.GetBillEventToken()/billEventToken/gc</entry>
+        <entry>%s/details.GetLegacyInventoryAdjustmentAssociatedToken()/legacyAdjustmentToken/gc</entry>
+        <entry>%s/NewBillEventJobRequestBuilder/builder.NewBillEventJobRequestBuilder/g</entry>
+        <entry>%s/NewRefundBillEventJobRequestBuilder/builder.NewRefundBillEventJobRequestBuilder/g</entry>
+        <entry>%s/NewExchangeBillEventJobRequestBuilder/builder.NewExchangeBillEventJobRequestBuilder/g</entry>
+        <entry>Wq</entry>
+        <entry>%s/AddNewItemization/AddRefundItemization/g</entry>
+        <entry>v</entry>
+        <entry>s</entry>
+        <entry>split</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

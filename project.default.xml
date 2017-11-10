@@ -1,0 +1,38 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="GoImports">
+        <option name="groupStdlibImports" value="true" />
+        <option name="importSorting" value="GOIMPORTS" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+        <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+        <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

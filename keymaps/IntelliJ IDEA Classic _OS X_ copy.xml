@@ -1,0 +1,22 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="Macro.Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+</keymap>

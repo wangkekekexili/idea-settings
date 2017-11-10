@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Go">
+        <added pattern="request.Header.Set(key,value)" />
+        <added pattern="t.Fatalf(format,args)" />
+        <added pattern="sake.NewError(code,format,a)" />
+        <added pattern="errors.New(text)" />
+        <added pattern="Enabled(v)" />
+        <added pattern="square/up/util#WrapErrorAndPrependMessage(err,message)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
