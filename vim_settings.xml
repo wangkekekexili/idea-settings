@@ -26,6 +26,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1510596720318" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/item_item_modifier_list_membership.go" timestamp="1510606568631">
+        <mark key="[" line="791" column="0" />
+        <mark key="]" line="791" column="0" />
+        <mark key="." line="791" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510596630072">
         <mark key="[" line="2731" column="34" />
         <mark key="]" line="2225" column="12" />
@@ -217,7 +222,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlodHRwLlN0YXR1c0ludGVybmFsU2VydmVyRXJyb3IK</text>
       </register>
       <register name="-" type="4">
         <text>main</text>
@@ -229,31 +234,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlodHRwLlN0YXR1c0ludGVybmFsU2VydmVyRXJyb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">aW1wb3J0ICgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJnb251bS5vcmcvdjEvZ29udW0vbWF0Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSJnb251bS5vcmcvdjEvZ29udW0vbWF0Igo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
