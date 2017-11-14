@@ -70,18 +70,6 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/feature/features.go" timestamp="1510662754232">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510609196856">
-        <mark key="[" line="2731" column="34" />
-        <mark key="]" line="2225" column="12" />
-        <mark key="." line="2225" column="12" />
-        <mark key="^" line="2225" column="12" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
@@ -90,10 +78,8 @@
         <mark key="[" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints_builder.go" timestamp="1510662932211">
-        <mark key="'" line="182" column="20" />
-        <mark key="[" line="187" column="9" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
