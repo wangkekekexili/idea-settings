@@ -66,6 +66,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/employees/employees.pb.go" timestamp="1510620992107" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1510622087566" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/module.go" timestamp="1510674983298" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1510662569900">
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
