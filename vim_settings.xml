@@ -50,11 +50,11 @@
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1510677714568">
-        <mark key="[" line="294" column="60" />
-        <mark key="]" line="307" column="46" />
-        <mark key="^" line="307" column="46" />
-        <mark key="." line="307" column="46" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1510679786570">
+        <mark key="[" line="298" column="60" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="303" column="31" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/web/module.go" timestamp="1510676791317" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
@@ -214,8 +214,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXdyaXRlU3RhdHVzKHcsIGZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>int</text>
@@ -227,31 +227,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyB3cml0ZVN0YXR1cyh3IGh0dHAuUmVzcG9uc2VXcml0ZXIsIHN0YXR1c0NvZGUgaW50KSB7Cg==</text>
+        <text encoding="base64">CQkJCXdyaXRlU3RhdHVzKHcsIGZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW9rIDo9IHN0YXR1cwo=</text>
+        <text encoding="base64">CQkJd3JpdGVTdGF0dXModywgdHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXcuV3JpdGVIZWFkZXIoc3RhdHVzQ29kZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXcuV3JpdGVIZWFkZXIoaHR0cC5TdGF0dXNTZXJ2aWNlVW5hdmFpbGFibGUpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXcuV3JpdGVIZWFkZXIoaHR0cC5TdGF0dXNJbnRlcm5hbFNlcnZlckVycm9yKQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXcuV3JpdGVIZWFkZXIoaHR0cC5TdGF0dXNJbnRlcm5hbFNlcnZlckVycm9yKQo=</text>
+        <text encoding="base64">CQl3LldyaXRlKGIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdy5Xcml0ZUhlYWRlcihodHRwLlN0YXR1c0JhZFJlcXVlc3QpCg==</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl3LldyaXRlSGVhZGVyKGh0dHAuU3RhdHVzQmFkUmVxdWVzdCkK</text>
+        <text encoding="base64">CQl3LldyaXRlKGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2UK</text>
+        <text encoding="base64">CWlmIG9rIHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
