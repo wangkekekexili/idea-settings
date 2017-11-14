@@ -28,6 +28,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page.go" timestamp="1510663149605">
         <mark key="[" line="266" column="75" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/multipass/mds_user.go" timestamp="1510687407933" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/web/httprpc_client.go" timestamp="1510282412868">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -50,7 +51,7 @@
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1510685782584" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1510687397896" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1510680998946">
         <mark key="[" line="298" column="60" />
         <mark key="]" line="300" column="0" />
@@ -73,7 +74,7 @@
         <mark key="[" line="79" column="33" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/employees/employees.pb.go" timestamp="1510620992107" />
-      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1510622087566" />
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1510687711529" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/module.go" timestamp="1510675697822" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1510662569900">
         <mark key="]" line="198" column="0" />
