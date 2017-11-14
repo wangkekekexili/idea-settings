@@ -24,7 +24,12 @@
       <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/multipass/mds_user.go" timestamp="1510619116722" />
+      <file name="$USER_HOME$/Development/go/src/square/up/multipass/mds_user.go" timestamp="1510622081750">
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="34" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/web/httprpc_client.go" timestamp="1510282412868">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -44,11 +49,10 @@
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1510619244019">
-        <mark key="[" line="190" column="12" />
-        <mark key="]" line="190" column="12" />
-        <mark key="^" line="191" column="110" />
-        <mark key="." line="190" column="12" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1510621990608">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/main.go" timestamp="1510506074340">
         <mark key="[" line="1" column="0" />
@@ -82,6 +86,8 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-common.yaml" timestamp="1510175150618">
         <mark key="[" line="79" column="33" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/employees/employees.pb.go" timestamp="1510620992107" />
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1510622087566" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1510261832773">
         <mark key="[" line="959" column="4" />
         <mark key="]" line="959" column="54" />
@@ -224,11 +230,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nbG9nIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GetAppStatus</text>
@@ -237,31 +243,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nbG9nIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUdldE9iamVjdHNGb3JVbml0SW5jcmVtZW50YWxTeW5jRXhwZXJpbWVudAo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2dvbGFuZy9nbG9nIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUdldE9iamVjdHNGb3JVbml0SW5pdGlhbFN5bmNFeHBlcmltZW50RGVmYXVsdCA9IGZhbHNlCg==</text>
+        <text encoding="base64">CWdsb2cuSW5mb2YoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbHVlID0gZGVmYXVsdFZhbHVlCg==</text>
+        <text encoding="base64">CXVzZXIubG9nZ2VkSW5Vc2VyLkdldE1kc0xvZ2dlZEluVXNlcigpLkdldFVuaXQoKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXUubXVsdGlwYXNzTURTVXNlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXVzZXIubG9nZ2VkSW5Vc2VyLkdldFVzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlnbG9nLkZhdGFsZigiVW5hYmxlIHRvIHJlZ2lzdGVyIGZlYXR1cmUgZmxhZyAlczogJXYiLCBVc2VNZW51TWFuYWdlclJlb3JkZXJHcm91cHNGbGFnTmFtZSwgZXJyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGVyciA6PSByZWcuUmVnaXN0ZXIoVXNlTWVudU1hbmFnZXJSZW9yZGVyR3JvdXBzRmxhZ05hbWUsIEZlYXR1cmVGbGFnVmFsdWVGYWxzZSk7IGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CWdsb2cuSW5mbyh1Lm11bHRpcGFzc01EU1VzZXIuSGFzQW55RW1wbG95ZWVQZXJtaXNzaW9uc0ZvclVuaXQocmVxdWVzdFVuaXRUb2tlbiwgZW1wbG95ZWVSZWFkUGVybWlzc2lvbnMuLi4pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWdsb2cuSW5mbyh1Lm11bHRpcGFzc01EU1VzZXIuSGFzQW55RW1wbG95ZWVQZXJtaXNzaW9uc0Zvck1lcmNoYW50KHJlcXVlc3RNZXJjaGFudFRva2VuLCBlbXBsb3llZVJlYWRQZXJtaXNzaW9ucy4uLikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
