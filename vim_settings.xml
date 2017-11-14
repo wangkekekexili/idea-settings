@@ -18,7 +18,8 @@
       <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1510662609659" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1510695998197" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/shard.go" timestamp="1510696142578" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page.go" timestamp="1510663149605">
         <mark key="[" line="266" column="75" />
       </file>
