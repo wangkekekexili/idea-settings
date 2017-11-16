@@ -138,11 +138,16 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-sjc1-staging.yaml" timestamp="1510847210130">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/export.go" timestamp="1510770114809" />
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510773239982">
+      <file name="/Dummy.txt" timestamp="1510847054575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/bulk-cli-dc-common.yaml" timestamp="1510838308998" />
@@ -166,9 +171,6 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-dc-common.yaml" timestamp="1510839602623">
         <mark key="[" line="28" column="20" />
-        <mark key="]" line="30" column="43" />
-        <mark key="^" line="30" column="43" />
-        <mark key="." line="30" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -246,7 +248,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gaW52ZW50b3J5Mgo=</text>
       </register>
       <register name="-" type="4">
         <text>squareup.items.merchant.</text>
@@ -258,31 +260,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gaW52ZW50b3J5Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3Bhc3N3b3JkOiBjaGFuZ2VpdAo=</text>
+        <text encoding="base64">ICBkYXRhc291cmNlczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3R5cGU6IEpDRUtTCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX2ZpbGU6IC9kYXRhL2FwcC9pdGVtcy9zZWNyZXRzL3NlcnZpY2Uyc2VydmljZS50cnVzdHN0b3JlLmpjZWtzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3Bhc3N3b3JkOiBjaGFuZ2VpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfY2VydF9hbGlhczogJWhvc3RuYW1lJQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3R5cGU6IEpDRUtTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmVfdHlwZTogSkNFS1MK</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX2ZpbGU6IC9kYXRhL2FwcC9pdGVtcy9zZWNyZXRzL3NlcnZpY2Uyc2VydmljZS50cnVzdHN0b3JlLmpjZWtzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmVfcGFzczogQ0hBTkdFCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRfY2VydF9hbGlhczogJWhvc3RuYW1lJQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmU6IC9kYXRhL2FwcC9pdGVtcy9zZWNyZXRzL2l0ZW1zLSVob3N0bmFtZSUtczJzLmpjZWtzCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmVfdHlwZTogSkNFS1MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VfbXV0dWFsX2F1dGg6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmVfcGFzczogQ0hBTkdFCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
