@@ -23,10 +23,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/itemsevents.proto" timestamp="1510782261148" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/menu_group_membership.go" timestamp="1510662938750" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/squalor/module.go" timestamp="1510696816778" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/merchant/api.proto" timestamp="1510782724744">
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/export_v3/export_v3.go" timestamp="1510858816786">
         <mark key="[" line="122" column="58" />
       </file>
@@ -39,8 +35,8 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/server.go" timestamp="1510769810550">
         <mark key="[" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510861094252">
-        <mark key="[" line="608" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510865708016">
+        <mark key="[" line="969" column="18" />
         <mark key="]" line="608" column="0" />
         <mark key="." line="608" column="0" />
       </file>
@@ -51,10 +47,6 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/employees/employees.pb.go" timestamp="1510620992107" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1510662569900">
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/feature/util/typed_features.go" timestamp="1510662180734" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/pretty.go" timestamp="1510506047574">
         <mark key="[" line="0" column="12" />
@@ -152,7 +144,7 @@
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510864618181">
+      <file name="/Dummy.txt" timestamp="1510865607218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/tracing/tracing.go" timestamp="1510860676268" />
@@ -163,6 +155,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1510748504541" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/items-bulk-common.yaml" timestamp="1510839184687" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/datasource/module.go" timestamp="1510677034734" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/user_state.go" timestamp="1510865739606" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
         <mark key="[" line="0" column="0" />
       </file>
