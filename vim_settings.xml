@@ -39,12 +39,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/server.go" timestamp="1510769810550">
         <mark key="[" line="55" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510773282497" />
-      <file name="$USER_HOME$/Development/go/src/github.com/square/squalor/db.go" timestamp="1510765168083" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module.go" timestamp="1510857557148">
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510861094252">
+        <mark key="[" line="608" column="0" />
+        <mark key="]" line="608" column="0" />
+        <mark key="." line="608" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/square/squalor/db.go" timestamp="1510765168083" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-common.yaml" timestamp="1510839228203">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -54,12 +54,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1510662569900">
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510609196856">
-        <mark key="[" line="2731" column="34" />
-        <mark key="]" line="2225" column="12" />
-        <mark key="." line="2225" column="12" />
-        <mark key="^" line="2225" column="12" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/feature/util/typed_features.go" timestamp="1510662180734" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/pretty.go" timestamp="1510506047574">
@@ -71,12 +65,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1510695033533" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/square/squalor/db.go" timestamp="1510696823150" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/items_api_items.go" timestamp="1510673964509" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/clone.proto" timestamp="1510782152042">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/onlinestore.proto" timestamp="1510782147494" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
         <mark key="[" line="370" column="75" />
@@ -125,8 +113,10 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1510663141447" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/trunk_func.go" timestamp="1510760604184" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/bulkcli/bulkcli.go" timestamp="1510761041100" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-common.yaml" timestamp="1510839187090">
-        <mark key="[" line="41" column="34" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-common.yaml" timestamp="1510862006405">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
         <mark key="[" line="70" column="59" />
@@ -158,16 +148,14 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/export.go" timestamp="1510770114809" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints_builder.go" timestamp="1510662932211">
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/sake/common/context.go" timestamp="1510860811242" />
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510847054575">
+      <file name="/Dummy.txt" timestamp="1510860290513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/tracing/tracing.go" timestamp="1510860676268" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/bulk-cli-dc-common.yaml" timestamp="1510838308998" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
         <mark key="[" line="51" column="34" />
@@ -175,12 +163,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1510748504541" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/items-bulk-common.yaml" timestamp="1510839184687" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/datasource/module.go" timestamp="1510677034734" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/static/importhistory.html" timestamp="1510768287084">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="34" column="28" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -266,7 +248,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IHRpbWUuUkZDCg==</text>
+        <text encoding="base64">ICAgICAgICBjbHVzdGVyczogWyAidHJ1bmsvKi8tIiBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>squareup.items.merchant.</text>
@@ -278,31 +260,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IHRpbWUuUkZDCg==</text>
+        <text encoding="base64">ICAgICAgICBjbHVzdGVyczogWyAidHJ1bmsvKi8tIiBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gaW52ZW50b3J5Mgo=</text>
+        <text encoding="base64">ICAgICAgc3F1YXJldXAudHJ1bmsuVHJ1bmtTZXJ2aWNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhc291cmNlczoK</text>
+        <text encoding="base64">CQkJCWN0eCA9IHNha2UuTmV3Q29udGV4dCgpdHJhY2luZy5CYWNrZ3JvdW5kQ29udGV4dChjdHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYSA9IHRpbWUuUkZDCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3Bhc3N3b3JkOiBjaGFuZ2VpdAo=</text>
+        <text encoding="base64">ICAgIC0gaW52ZW50b3J5Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3R5cGU6IEpDRUtTCg==</text>
+        <text encoding="base64">ICBkYXRhc291cmNlczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX2ZpbGU6IC9kYXRhL2FwcC9pdGVtcy9zZWNyZXRzL3NlcnZpY2Uyc2VydmljZS50cnVzdHN0b3JlLmpjZWtzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfY2VydF9hbGlhczogJWhvc3RuYW1lJQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3Bhc3N3b3JkOiBjaGFuZ2VpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfa2V5c3RvcmVfdHlwZTogSkNFS1MK</text>
+        <text encoding="base64">ICAgICAgICB0cnVzdHN0b3JlX3R5cGU6IEpDRUtTCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
