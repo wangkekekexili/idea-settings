@@ -99,7 +99,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1510663141447" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1510869394362" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/trunk_func.go" timestamp="1510760604184" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1510936738352" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1510937417115" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/bulkcli/bulkcli.go" timestamp="1510761041100" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
         <mark key="[" line="70" column="59" />
