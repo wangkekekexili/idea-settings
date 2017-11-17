@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1510942359973">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1510946015152">
         <mark key="]" line="158" column="0" />
         <mark key="^" line="111" column="9" />
         <mark key="." line="158" column="0" />
@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1510695033533" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1510946210248" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/square/squalor/db.go" timestamp="1510696823150" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/items_api_items.go" timestamp="1510673964509" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/connect/v2/inventory/service/batch_change_inventory.pb.go" timestamp="1510938847189" />
