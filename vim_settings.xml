@@ -6,11 +6,6 @@
       <file name="/a.dummy" timestamp="1510770138929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/item_item_modifier_list_membership.go" timestamp="1510606568631">
-        <mark key="[" line="790" column="0" />
-        <mark key="]" line="790" column="0" />
-        <mark key="." line="790" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1510695998197" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1510868074285" />
       <file name="/user_request.go" timestamp="1510617626541" />
@@ -28,18 +23,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/service/inventory_service.proto" timestamp="1510750560928" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510932851420">
-        <mark key="[" line="1026" column="28" />
-        <mark key="]" line="1026" column="28" />
-        <mark key="." line="1026" column="28" />
-        <mark key="^" line="1026" column="29" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1510933602955">
+        <mark key="[" line="1032" column="28" />
+        <mark key="]" line="1039" column="25" />
+        <mark key="." line="1039" column="25" />
+        <mark key="^" line="1039" column="25" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/square/squalor/db.go" timestamp="1510765168083" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-common.yaml" timestamp="1510839228203">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/employees/employees.pb.go" timestamp="1510620992107" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510609196856">
         <mark key="[" line="2731" column="34" />
@@ -47,6 +37,7 @@
         <mark key="." line="2225" column="12" />
         <mark key="^" line="2225" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/inventory/v3/api.pb.go" timestamp="1510936332035" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feature/util/typed_features.go" timestamp="1510662180734" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/pretty.go" timestamp="1510506047574">
         <mark key="[" line="0" column="12" />
@@ -77,22 +68,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/async_status_service/async_status_service.go" timestamp="1510761319974" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1510868975633" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/db_v3.go" timestamp="1510931462147" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/flags/module.go" timestamp="1510662625969">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/api/common/metamodel.go" timestamp="1510760256204" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/import_export/import_export.go" timestamp="1510858856380">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module_test.go" timestamp="1510320644276">
-        <mark key="[" line="311" column="10" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1510868942744" />
       <file name="/cogs_batch_test.go" timestamp="1510931306362" />
       <file name="$USER_HOME$/Development/go/src/square/up/client/trunk/client.go" timestamp="1510760655417" />
@@ -123,24 +99,22 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1510663141447" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1510869394362" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/trunk_func.go" timestamp="1510760604184" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1510936738352" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/bulkcli/bulkcli.go" timestamp="1510761041100" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-common.yaml" timestamp="1510862006405">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
         <mark key="[" line="70" column="59" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1510936057078" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1510869737152" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/bulk-cli-sjc1-staging.yaml" timestamp="1510770870287" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/web/module.go" timestamp="1510676791317" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
         <mark key="[" line="21" column="20" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/api/sync/sync.pb.go" timestamp="1510934936400" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/async_status/async_status.go" timestamp="1510765326349" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/module.go" timestamp="1510675697822" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/bulkcli/download_file.go" timestamp="1510837720121">
@@ -152,11 +126,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/bulk-cli-sjc2b-production.yaml" timestamp="1510770885233" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-sjc1-staging.yaml" timestamp="1510847210130">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/export.go" timestamp="1510770114809" />
       <file name="$USER_HOME$/Development/go/src/square/up/sake/common/context.go" timestamp="1510860811242" />
@@ -271,10 +240,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>configuraton</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>configuraton</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>GetAppStatus</text>
@@ -283,25 +252,25 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJb2JqcywgZXJyIDo9IGRzLkdldE9iago=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgZXJyICE9IAo=</text>
+        <text encoding="base64">CQl0LkZhdGFsZigiZXhwZWN0ZWQgdG8gZ2V0IGFuIGl0ZW07IGdvdCAldiIsIG9iaikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJb2JqcywgZXJyIDo9IGRzLkdldEFsbE9iamVjdHNPZlR5cGUoY3R4LCBpdGVtc3YxLlR5cGVfQ09ORklHVVJBVElPTiwgMCkK</text>
+        <text encoding="base64">CWlmIF8sIG9rIDo9IG9iai4oKm1vZGVsLk1lbnVDYXRlZ29yeSk7ICFvayB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyCg==</text>
+        <text encoding="base64">CQl0LkZhdGFsKGVycikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllcnIgPSBmbXQuRXJyb3JmKCJDdXJyZW50U2VydmVyVmVyc2lvbiBpcyAwIGZvciBHZXQgZnJvbSAldi4gQXJlIHdlIG1pc3NpbmcgYSBjb25maWd1cmF0aW9uP1xuUmVxOiAldiIsIGRzLkdldFVuaXRUb2tlbigpLCBnZXRSZXEpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGdldFJlc3AuR2V0Q3VycmVudFNlcnZlclZlcnNpb24oKSA9PSAwICYmICFleGNsdWRlZFR5cGVzW2l0ZW1zdjEuVHlwZV9DT05GSUdVUkFUSU9OXSB7Cg==</text>
+        <text encoding="base64">CW9iaiwgZXJyIDo9IG1vZGVsLkNvbnZlcnRGcm9tQ09HUyhVc2VyMVVuaXQxLlVuaXRUb2tlbiwgZ2V0UmVzcC5PYmplY3RzWzBdKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CX0K</text>
