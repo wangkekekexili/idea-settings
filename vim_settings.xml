@@ -203,6 +203,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/config/items-bulk-common.yaml" timestamp="1510839184687" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/legacyinventorychange/module.go" timestamp="1510869009294" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/datasource/module.go" timestamp="1510677034734" />
+      <file name="$USER_HOME$/Development/go/src/square/up/grpc/gnsbalancer/doc.go" timestamp="1510954474806">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/static/importhistory.html" timestamp="1510768287084">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
@@ -294,7 +299,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJ2YWw6IFBUMC4wNVMgIyBTZXQgdG8gbG93IGludGVydmFsIGZvciB0ZXN0cy4K</text>
+        <text encoding="base64">cyBhY3V0YWxsIGJlaGF2aW9yIHdoZW4gYXNrZWQgdG8gcmUtb3BlbiBhIGNvbm5lY3Rpbm8gdG8gR1JQQyBhZGRyZXNzIGhlbGQgYnkgc3RlYW1pbmcgZGNvbm5lY2l0b25zLgo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -306,31 +311,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW50ZXJ2YWw6IFBUMC4wNVMgIyBTZXQgdG8gbG93IGludGVydmFsIGZvciB0ZXN0cy4K</text>
+        <text encoding="base64">cyBhY3V0YWxsIGJlaGF2aW9yIHdoZW4gYXNrZWQgdG8gcmUtb3BlbiBhIGNvbm5lY3Rpbm8gdG8gR1JQQyBhZGRyZXNzIGhlbGQgYnkgc3RlYW1pbmcgZGNvbm5lY2l0b25zLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWF4SXRlbXM6IDEwMDAK</text>
+        <text encoding="base64">Ly8gSW52ZXN0aWdhdGUgdGhlIEdSUEMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmVlZE5hbWU6IGJpbGwtZXZlbnRzLWZlZWQK</text>
+        <text encoding="base64">ICAgICAgaW50ZXJ2YWw6IFBUMC4wNVMgIyBTZXQgdG8gbG93IGludGVydmFsIGZvciB0ZXN0cy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJpbGxFdmVudHNGZWVkOgo=</text>
+        <text encoding="base64">ICAgICAgbWF4SXRlbXM6IDEwMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgZmVlZE5hbWU6IGJpbGwtZXZlbnRzLWZlZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIGJpbGxFdmVudHNGZWVkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZ2xvZy5GYXRhbChlcnIpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZ2xvZy5JbmZvKGVycikK</text>
+        <text encoding="base64">CQkJZ2xvZy5GYXRhbChlcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
