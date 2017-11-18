@@ -25,6 +25,7 @@
         <mark key="[" line="66" column="51" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/itemsevents.proto" timestamp="1510782261148" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/protos/squareup/inventory/service.proto" timestamp="1510975220047" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/menu_group_membership.go" timestamp="1510662938750" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/squalor/module.go" timestamp="1510696816778" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-development.yaml" timestamp="1510866856008" />
@@ -84,7 +85,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1510866894401" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/async_status_service/async_status_service.go" timestamp="1510761319974" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1510868975633" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1510975308046" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/db_v3.go" timestamp="1510931462147" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/flags/module.go" timestamp="1510662625969">
         <mark key="[" line="27" column="0" />
