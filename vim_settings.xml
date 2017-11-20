@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1510946015152">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1511192881424">
         <mark key="]" line="158" column="0" />
         <mark key="^" line="111" column="9" />
         <mark key="." line="158" column="0" />
@@ -22,6 +22,7 @@
         <mark key="]" line="790" column="0" />
         <mark key="." line="790" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/conversions/merchant_catalog_conversions.go" timestamp="1511192906544" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1511183823176" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
