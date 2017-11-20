@@ -44,6 +44,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1511184902811">
         <mark key="[" line="205" column="8" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/sync_items_notifier/runner_actions.go" timestamp="1511194359668" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1510609196856">
         <mark key="[" line="2731" column="34" />
         <mark key="]" line="2225" column="12" />
@@ -68,8 +69,8 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
         <mark key="[" line="370" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1511185084383">
-        <mark key="[" line="855" column="21" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1511194680212">
+        <mark key="[" line="36" column="48" />
         <mark key="]" line="538" column="11" />
         <mark key="." line="538" column="11" />
         <mark key="^" line="538" column="11" />
@@ -152,6 +153,7 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/export.go" timestamp="1511182388654" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/runner.go" timestamp="1511194379181" />
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
