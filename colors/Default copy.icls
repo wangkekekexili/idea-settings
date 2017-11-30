@@ -73,5 +73,11 @@
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="b0d1ab" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
   </attributes>
 </scheme>
