@@ -39,12 +39,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.php" timestamp="1512154455444">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.php" timestamp="1512154455444" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
       </file>
@@ -117,6 +112,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/connect/v2/inventory/service/batch_change_inventory.pb.go" timestamp="1512155414297" />
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.java" timestamp="1512148085040">
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
