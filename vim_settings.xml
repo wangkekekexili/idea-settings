@@ -67,6 +67,7 @@
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/vendors.go" timestamp="1512133002497" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/clone.proto" timestamp="1510782152042">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="18" column="0" />
@@ -90,6 +91,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
         <mark key="[" line="370" column="75" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/server.go" timestamp="1512132914742" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1512080989078">
         <mark key="[" line="552" column="60" />
         <mark key="]" line="42" column="0" />
@@ -110,10 +112,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
         <mark key="[" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512082329091">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512132801424">
         <mark key="[" line="646" column="39" />
-        <mark key="]" line="652" column="0" />
-        <mark key="." line="652" column="0" />
+        <mark key="]" line="641" column="19" />
+        <mark key="." line="641" column="19" />
+        <mark key="^" line="641" column="19" />
       </file>
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
