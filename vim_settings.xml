@@ -39,6 +39,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.php" timestamp="1512154455444">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
       </file>
@@ -256,7 +262,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAubGltaXQoMTAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ignored</text>
@@ -268,34 +274,34 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAubGltaXQoMTAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgQ2F0YWxvZ1F1ZXJ5UHJlZml4KCkuYXR0cmlidXRlTmFtZSgibmFtZSIpLmF0dHJpYnV0ZVByZWZpeCgidGVhIikpKQo=</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcmVmaXhRdWVyeSgK</text>
+        <text encoding="base64">Ly8gU2VhcmNoIGZvciBhbGwgSXRlbXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENhdGFsb2dRdWVyeSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAubGltaXQoMTAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucXVlcnkoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgQ2F0YWxvZ1F1ZXJ5UHJlZml4KCkuYXR0cmlidXRlTmFtZSgibmFtZSIpLmF0dHJpYnV0ZVByZWZpeCgidGVhIikpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkT2JqZWN0VHlwZXNJdGVtKFNlYXJjaENhdGFsb2dPYmplY3RzUmVxdWVzdC5PYmplY3RUeXBlc0VudW0uSVRFTSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcmVmaXhRdWVyeSgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBTZWFyY2hDYXRhbG9nT2JqZWN0c1JlcXVlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENhdGFsb2dRdWVyeSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2VhcmNoQ2F0YWxvZ09iamVjdHNSZXF1ZXN0IGJvZHkgPQo=</text>
+        <text encoding="base64">ICAgICAgICAucXVlcnkoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAubGltaXQoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAuYWRkT2JqZWN0VHlwZXNJdGVtKFNlYXJjaENhdGFsb2dPYmplY3RzUmVxdWVzdC5PYmplY3RUeXBlc0VudW0uSVRFTSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -349,8 +355,8 @@
         <entry>s</entry>
         <entry>split</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
