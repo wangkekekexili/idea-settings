@@ -109,6 +109,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.java" timestamp="1512148085040">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,7 +255,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWdldEN1cnJlbnRDb3VudHMK</text>
+        <text encoding="base64">ICAgICAgICAubGltaXQoMTAwKTsK</text>
       </register>
       <register name="-" type="4">
         <text>ignored</text>
@@ -261,31 +267,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdldEN1cnJlbnRDb3VudHMK</text>
+        <text encoding="base64">ICAgICAgICAubGltaXQoMTAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgQ2F0YWxvZ1F1ZXJ5UHJlZml4KCkuYXR0cmlidXRlTmFtZSgibmFtZSIpLmF0dHJpYnV0ZVByZWZpeCgidGVhIikpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmaWx0ZXJlZENvdW50cyA9IGFwcGVuZChmaWx0ZXJlZENvdW50cywgY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wcmVmaXhRdWVyeSgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENhdGFsb2dRdWVyeSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAucXVlcnkoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiBjdXJyZW50UXVhbnRpdHksIG9rIDo9IGN1cnJlbnRRdWFudGl0aWVzW2tleV07IG9rICYmIGN1cnJlbnRRdWFudGl0eSA9PSBjb3VudC5HZXRRdWFudGl0eSgpLkdldENvdW50KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAuYWRkT2JqZWN0VHlwZXNJdGVtKFNlYXJjaENhdGFsb2dPYmplY3RzUmVxdWVzdC5PYmplY3RUeXBlc0VudW0uSVRFTSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBTZWFyY2hDYXRhbG9nT2JqZWN0c1JlcXVlc3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY29udGludWUK</text>
+        <text encoding="base64">U2VhcmNoQ2F0YWxvZ09iamVjdHNSZXF1ZXN0IGJvZHkgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZmlsdGVyZWRDb3VudHMgPSBhcHBlbmQoZmlsdGVyZWRDb3VudHMsIGNvdW50KQo=</text>
+        <text encoding="base64">ICAubGltaXQoMTAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
