@@ -21,7 +21,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1511184902811">
         <mark key="[" line="205" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1512165485834">
+      <file name="/a.dummy" timestamp="1512425202414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/item_item_modifier_list_membership.go" timestamp="1510606568631">
@@ -86,10 +86,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
         <mark key="[" line="70" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions_test.go" timestamp="1512425114638">
-        <mark key="[" line="115" column="12" />
-        <mark key="]" line="115" column="12" />
-        <mark key="." line="115" column="12" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions_test.go" timestamp="1512425364686">
+        <mark key="[" line="118" column="38" />
+        <mark key="]" line="118" column="14" />
+        <mark key="." line="118" column="14" />
+        <mark key="^" line="118" column="14" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
