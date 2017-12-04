@@ -48,8 +48,8 @@
         <mark key="]" line="3904" column="0" />
         <mark key="." line="3904" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1512166443796">
-        <mark key="[" line="627" column="5" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1512402697629">
+        <mark key="[" line="523" column="12" />
         <mark key="]" line="629" column="0" />
         <mark key="." line="629" column="0" />
       </file>
@@ -109,6 +109,9 @@
         <mark key="." line="2225" column="12" />
         <mark key="^" line="2225" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1512402584482">
+        <mark key="[" line="1635" column="122" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
@@ -143,7 +146,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/import_helper/module.go" timestamp="1511182406203">
         <mark key="[" line="99" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512149836514">
+      <file name="/Dummy.txt" timestamp="1512402689471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
