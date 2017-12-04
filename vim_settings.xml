@@ -58,7 +58,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512165042802">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512415239261">
         <mark key="[" line="473" column="125" />
         <mark key="]" line="474" column="0" />
         <mark key="." line="474" column="0" />
@@ -94,12 +94,14 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/README.md" timestamp="1512415214866" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/pretty.go" timestamp="1510506047574">
         <mark key="[" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/connect/v2/inventory/service/batch_change_inventory.pb.go" timestamp="1512415244117" />
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/SearchCatalogObjects/SearchCatalogObjectsRequest.java" timestamp="1512148085040">
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
