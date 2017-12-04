@@ -54,12 +54,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512418366819">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="138" column="26" />
-      </file>
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,7 +78,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1512402584482">
         <mark key="[" line="1635" column="122" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/api/endpoint_builder.go" timestamp="1512418821295" />
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/api/endpoint_builder.go" timestamp="1512421601333" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
