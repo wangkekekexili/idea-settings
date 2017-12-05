@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
         <mark key="[" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1512494060132">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1512495247199">
         <mark key="[" line="1135" column="71" />
-        <mark key="]" line="1135" column="42" />
-        <mark key="^" line="1135" column="42" />
-        <mark key="." line="1135" column="42" />
+        <mark key="]" line="1158" column="75" />
+        <mark key="^" line="1158" column="75" />
+        <mark key="." line="1158" column="75" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/filter_unchanged_counts.go" timestamp="1512411451681">
         <mark key="[" line="31" column="34" />
