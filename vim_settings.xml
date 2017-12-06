@@ -174,7 +174,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/service/batch_change_inventory.proto" timestamp="1512165014447">
         <mark key="[" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1512585205856" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1512586103859" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
         <mark key="[" line="0" column="0" />
       </file>
