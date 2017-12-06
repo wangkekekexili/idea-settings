@@ -57,7 +57,6 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/query_builder.go" timestamp="1512503786940" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
       </file>
@@ -79,14 +78,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments_test.go" timestamp="1512505055587" />
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Inventory/BatchRetrieveInventoryCounts/BatchRetrieveInventoryCountsRequest.php" timestamp="1512513016297">
         <mark key="[" line="3" column="74" />
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/client/inventory/client.go" timestamp="1512493485698" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1512518725185">
         <mark key="[" line="431" column="59" />
         <mark key="]" line="431" column="59" />
@@ -105,8 +102,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/service/batch_change_inventory.proto" timestamp="1512165014447">
         <mark key="[" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1512506774554" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/counts.go" timestamp="1512500680621" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1512517336052">
         <mark key="[" line="54" column="72" />
         <mark key="]" line="54" column="62" />
@@ -143,11 +138,9 @@
       <file name="/Dummy.txt" timestamp="1512517428873">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Inventory/RetrieveInventoryPhysicalCount/RetrieveInventoryPhysicalCountRequest.ruby" timestamp="1512509673100" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
         <mark key="[" line="370" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/client/inventory/module.go" timestamp="1512493608007" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
         <mark key="[" line="51" column="34" />
       </file>
@@ -157,14 +150,12 @@
         <mark key="^" line="20" column="46" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Catalog/UpsertCatalogObject/UpsertCatalogObjectRequest.php" timestamp="1512519061212" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1512507899511">
-        <mark key="[" line="1171" column="0" />
-        <mark key="]" line="1171" column="0" />
-        <mark key="." line="1171" column="0" />
-        <mark key="^" line="1130" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1512578478930">
+        <mark key="[" line="1185" column="0" />
+        <mark key="]" line="1185" column="0" />
+        <mark key="." line="1185" column="0" />
+        <mark key="^" line="1184" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Inventory/RetrieveInventoryCount/RetrieveInventoryCountRequest.java" timestamp="1512510594652" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/filter_unchanged_counts.go" timestamp="1512411451681">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="18" />
@@ -176,6 +167,12 @@
         <mark key="]" line="218" column="35" />
         <mark key="^" line="218" column="35" />
         <mark key="." line="218" column="35" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1512578394747">
+        <mark key="[" line="617" column="56" />
+        <mark key="]" line="610" column="22" />
+        <mark key="^" line="610" column="22" />
+        <mark key="." line="610" column="22" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
         <mark key="[" line="0" column="0" />
@@ -262,7 +259,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXNwb25zZSByZXNwb25zZSA9IGludmVudG9yeUFwaS5iYXRjaENoYW5nZUludmVudG9yeShyZXF1ZXN0KTsK</text>
+        <text encoding="base64">CQkJLy8gRm9yIHN0b2NrIGNvdW50cyB0aGF0IGhhdmUgY291bnRlZF9hdCA8PSBsYXN0IHN0b2NrIGNvdW50LCBpZ25vcmUuCg==</text>
       </register>
       <register name="-" type="4">
         <text>after</text>
@@ -274,31 +271,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXNwb25zZSByZXNwb25zZSA9IGludmVudG9yeUFwaS5iYXRjaENoYW5nZUludmVudG9yeShyZXF1ZXN0KTsK</text>
+        <text encoding="base64">CQkJLy8gRm9yIHN0b2NrIGNvdW50cyB0aGF0IGhhdmUgY291bnRlZF9hdCA8PSBsYXN0IHN0b2NrIGNvdW50LCBpZ25vcmUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXNwb25zZSByZXNwb25zZSA9IGludmVudG9yeUFwaS5iYXRjaENoYW5nZUludmVudG9yeShyZXF1ZXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5pZ25vcmVVbmNoYW5nZWRDb3VudHModHJ1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5jaGFuZ2VzKGFzTGlzdChjaGFuZ2UpKQo=</text>
+        <text encoding="base64">ICAgIC5pZ25vcmVVbmNoYW5nZWRDb3VudHModHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5pZGVtcG90ZW5jeUtleShVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgIC5jaGFuZ2VzKGFzTGlzdChjaGFuZ2UpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgQmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXF1ZXN0KCkK</text>
+        <text encoding="base64">ICAgIC5pZGVtcG90ZW5jeUtleShVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAub2NjdXJyZWRBdCgiMjAxNi0xMS0xNlQyMjoyNToyNC44NzhaIikpOwo=</text>
+        <text encoding="base64">QmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgQmF0Y2hDaGFuZ2VJbnZlbnRvcnlSZXF1ZXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZW1wbG95ZWVJZCgiTFJLNTdOU1E1WDdQVUQwNSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAub2NjdXJyZWRBdCgiMjAxNi0xMS0xNlQyMjoyNToyNC44NzhaIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucXVhbnRpdHkoIjUzIikK</text>
+        <text encoding="base64">ICAgICAgICAuZW1wbG95ZWVJZCgiTFJLNTdOU1E1WDdQVUQwNSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
