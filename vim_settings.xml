@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1512590080309">
+      <file name="/a.dummy" timestamp="1512592971750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/examples/actions/catalog/search_catalog_objects_request.json" timestamp="1512144846891">
@@ -42,7 +42,9 @@
         <mark key="^" line="352" column="60" />
         <mark key="." line="352" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/datastore.go" timestamp="1512591059413" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/datastore.go" timestamp="1512592932809">
+        <mark key="[" line="41" column="95" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Inventory/RetrieveInventoryPhysicalCount/RetrieveInventoryPhysicalCountRequest.php" timestamp="1512510538220">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -105,10 +107,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/service/batch_change_inventory.proto" timestamp="1512165014447">
         <mark key="[" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1512591894643">
-        <mark key="[" line="1076" column="0" />
-        <mark key="]" line="1076" column="0" />
-        <mark key="." line="1076" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1512592966507">
+        <mark key="[" line="1061" column="11" />
+        <mark key="]" line="1061" column="11" />
+        <mark key="." line="1061" column="11" />
+        <mark key="^" line="1061" column="14" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1512517336052">
         <mark key="[" line="54" column="72" />
@@ -183,11 +186,11 @@
         <mark key="^" line="347" column="18" />
         <mark key="." line="346" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/db_v3.go" timestamp="1512591712986">
-        <mark key="[" line="1238" column="0" />
-        <mark key="]" line="1238" column="0" />
-        <mark key="." line="1238" column="0" />
-        <mark key="^" line="1226" column="22" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/db_v3.go" timestamp="1512592934966">
+        <mark key="[" line="1244" column="23" />
+        <mark key="]" line="1244" column="37" />
+        <mark key="." line="1244" column="37" />
+        <mark key="^" line="1244" column="37" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/resources/inventory.proto" timestamp="1512489047421">
         <mark key="[" line="218" column="76" />
@@ -286,11 +289,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihvYmpzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Init</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>Init</text>
       </register>
       <register name="/" type="4">
         <text>GetAppStatus</text>
@@ -299,31 +302,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihvYmpzKQo=</text>
+        <text encoding="base64">CQlkcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3ApCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihvYmpzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4odjFPYmosIGV4aXN0aW5nT2JqLCBoYXNFeGlzdGluZykK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3ApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4odjFPYmopCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4odjFPYmosIGV4aXN0aW5nT2JqLCBoYXNFeGlzdGluZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlmbXQuUHJpbnRsbigiaGVyZSIpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4odjFPYmopCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkJCQlmbXQuUHJpbnRsbigiaGVyZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQlmbXQuUHJpbnRsbigiaGVyZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJY29udGludWUK</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlpZiAhZHMuc2luZ2xlVW5pdE9ubHkgfHwgdjFPYmouSXNEZWxldGVkKCkgewo=</text>
+        <text encoding="base64">CQkJCQkJY29udGludWUK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
