@@ -61,9 +61,6 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/v3_api_test_1/merchant_api_1_test.go" timestamp="1512670560174">
-        <mark key="[" line="759" column="5" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
       </file>
@@ -105,9 +102,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/util/util.go" timestamp="1512589355637" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/attribute.go" timestamp="1512670747398">
-        <mark key="[" line="197" column="90" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/attribute.go" timestamp="1512670747398" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
         <mark key="[" line="21" column="20" />
       </file>
@@ -121,7 +116,7 @@
         <mark key="." line="994" column="11" />
         <mark key="^" line="994" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1512670876426" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1512671994267" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1512517336052">
         <mark key="[" line="54" column="72" />
         <mark key="]" line="54" column="62" />
