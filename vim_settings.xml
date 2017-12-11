@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/examples/actions/catalog/search_catalog_objects_request.json" timestamp="1512144846891">
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions.go" timestamp="1513018537650">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions.go" timestamp="1513020157072">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="40" column="9" />
@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
         <mark key="[" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments.go" timestamp="1513019870368" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1513009657943">
         <mark key="[" line="404" column="56" />
         <mark key="]" line="404" column="56" />
@@ -58,9 +59,9 @@
         <mark key="." line="174" column="80" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/module.go" timestamp="1513018480099">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
@@ -119,6 +120,7 @@
         <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1512751248613" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/comparison.go" timestamp="1513020171560" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
@@ -160,8 +162,10 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
         <mark key="[" line="51" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions_translator.go" timestamp="1513018678707">
-        <mark key="[" line="32" column="36" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions_translator.go" timestamp="1513019850592">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/label_actions_test.go" timestamp="1513012260819">
         <mark key="[" line="383" column="31" />
@@ -267,7 +271,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>db</text>
@@ -279,31 +283,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWlmIHJlcS5HZXRPYXV0aENsaWVudElkKCkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQloLmV2ZW50LkxvZ0Nvbm5lY3RWMShyZXEuR2V0SW52ZW50b3J5QWRqdXN0bWVudCgpLkdldEFkanVzdG1lbnRUeXBlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIHJlcS5HZXRPYXV0aENsaWVudElkKCkgIT0gIiIgewo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQloLmV2ZW50LkxvZ0Nvbm5lY3RWMShyZXEuR2V0SW52ZW50b3J5QWRqdXN0bWVudCgpLkdldEFkanVzdG1lbnRUeXBlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIHJlcS5HZXRPYXV0aENsaWVudElkKCkgIT0gIiIgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWV2ZW50U3RvcmUgKmV2ZW50c3RyZWFtLkZha2VFdmVudFN0b3JlVjIsCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
