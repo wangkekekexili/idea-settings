@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1512753468499">
-        <mark key="[" line="423" column="104" />
-        <mark key="]" line="423" column="48" />
-        <mark key="^" line="423" column="48" />
-        <mark key="." line="423" column="48" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1513008023800">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_internal.go" timestamp="1512750722623">
         <mark key="]" line="8" column="0" />
@@ -81,7 +81,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/eventstream/generate_labels_request_events.go" timestamp="1512753881451">
         <mark key="[" line="50" column="114" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/server/module.go" timestamp="1512751378512" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/server/module.go" timestamp="1513007923881">
+        <mark key="[" line="106" column="41" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="109" column="38" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
         <mark key="[" line="21" column="20" />
       </file>
@@ -135,10 +140,8 @@
         <mark key="." line="346" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/generate_labels_request_events.go" timestamp="1512754568309" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1512755109517">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513007645991">
+        <mark key="[" line="718" column="82" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
         <mark key="[" line="0" column="0" />
@@ -225,7 +228,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QWRqdXN0bWVudHMg</text>
@@ -237,31 +240,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VuLCBGZWF0dXJlTmFtZVN0b2NrUmV0dXJuZWQsCg==</text>
+        <text encoding="base64">CUV2ZW50U3RyZWFtTW9kdWxlICAgICAgICAgICAgICAgICAgICAgICAqZXZlbnRzdHJlYW0uTW9kdWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
+        <text encoding="base64">CQlFdmVudFN0b3JlVjI6ICAgICAgICAgICAgbS5FdmVudFN0cmVhbU1vZHVsZS5TdG9yZVYyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VuLCBGZWF0dXJlTmFtZVN0b2NrTG9zdCwK</text>
+        <text encoding="base64">CUV2ZW50U3RvcmVWMiAgICAgICAgICAgIGV2ZW50c3RyZWFtLkV2ZW50U3RvcmVWMgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VuLCBGZWF0dXJlTmFtZVN0b2NrRGFtYWdlZCwK</text>
+        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VuLCBGZWF0dXJlTmFtZVN0b2NrUmV0dXJuZWQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VkbiwgRmVhdHVyZU5hbWVTdG9ja1JlY2VpdmVkLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJbG9nSW52ZW50b3J5RXZlbnQoZXZlbnRTdG9yZVYyLCBtZXJjaGFudFRva2VuLCBGZWF0dXJlTmFtZVN0b2NrTG9zdCwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCSZhZGRpdGlvbmFsSW5mb3t0b2tlbjogY2F0YWxvZ09iamVjdFRva2VufSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
