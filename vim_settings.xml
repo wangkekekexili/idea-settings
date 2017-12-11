@@ -16,6 +16,9 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments_test.go" timestamp="1513029690282">
+        <mark key="[" line="410" column="163" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/seed_current_counts/seed_current_counts.go" timestamp="1512492429246">
         <mark key="[" line="138" column="71" />
       </file>
@@ -27,6 +30,12 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/bill_event_backfill.go" timestamp="1508524070173">
         <mark key="[" line="133" column="111" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/legacyinventorychange/module_test.go" timestamp="1513029977270">
+        <mark key="[" line="205" column="95" />
+        <mark key="]" line="185" column="102" />
+        <mark key="^" line="185" column="102" />
+        <mark key="." line="185" column="102" />
       </file>
       <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
         <mark key="[" line="26" column="5" />
@@ -66,10 +75,11 @@
         <mark key="^" line="174" column="55" />
         <mark key="." line="174" column="80" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/module.go" timestamp="1513024876622">
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="68" column="8" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/module.go" timestamp="1513030252611">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
         <mark key="[" line="66" column="51" />
@@ -93,7 +103,7 @@
         <mark key="[" line="71" column="41" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_events_actions.go" timestamp="1513016030558" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513028698893">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513030081357">
         <mark key="[" line="34" column="33" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
@@ -142,7 +152,16 @@
         <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1512751248613" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/backfillproductidentifier/job_service_test.go" timestamp="1513029992956">
+        <mark key="[" line="301" column="165" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/comparison.go" timestamp="1513020171560" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1513030409642">
+        <mark key="[" line="1584" column="77" />
+        <mark key="]" line="1584" column="20" />
+        <mark key="^" line="1584" column="20" />
+        <mark key="." line="1584" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
         <mark key="[" line="418" column="17" />
       </file>
@@ -293,7 +312,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY2FzZQo=</text>
+        <text encoding="base64">CQkJRXZlbnQ6ICAgICAgICAgICAgIGV2ZW50Lk5ld01vZHVsZUZvclRlc3QoKSwK</text>
       </register>
       <register name="-" type="4">
         <text>fromState</text>
@@ -305,31 +324,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY2FzZQo=</text>
+        <text encoding="base64">CQkJRXZlbnQ6ICAgICAgICAgICAgIGV2ZW50Lk5ld01vZHVsZUZvclRlc3QoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQljb250aW51ZWRkCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXJldHVybiAmTW9kdWxle2V2ZW50U3RvcmU6ICZldmVudHN0cmVhbS5GYWtlRXZlbnRTdG9yZVYye319Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ZnVuYyBOZXdNb2R1bGVGb3JUZXN0KCkgKk1vZHVsZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyIGZlYXR1cmVOYW1lIHN0cmluZwo=</text>
+        <text encoding="base64">CQkJY2FzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWZlYXR1cmVOYW1lID0gRmVhdHVyZU5hbWVTdG9ja1JlY2VpdmVkCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgZnJvbVN0YXRlID09IGludmVudG9yeV92My5TdGF0ZV9OT05FICYmIHRvU3RhdGUgPT0gaW52ZW50b3J5X3YzLlN0YXRlX0lOX1NUT0NLIHsK</text>
+        <text encoding="base64">CQljb250aW51ZWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdmFyIGZlYXR1cmVOYW1lIHN0cmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
