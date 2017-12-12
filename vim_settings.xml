@@ -3,125 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513106790473" />
-      <file name="/a.dummy" timestamp="1513040743964">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
+      <file name="/Dummy.txt" timestamp="1513107507225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/examples/actions/catalog/search_catalog_objects_request.json" timestamp="1512144846891">
-        <mark key="[" line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments_test.go" timestamp="1513029690282">
-        <mark key="[" line="410" column="163" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/seed_current_counts/seed_current_counts.go" timestamp="1512492429246">
-        <mark key="[" line="138" column="71" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/bill_event_backfill.go" timestamp="1508524070173">
-        <mark key="[" line="133" column="111" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/gitlab.com/ke-sq/boxer/.gitignore" timestamp="1509200273154">
-        <mark key="[" line="26" column="5" />
-      </file>
-      <file name="/usr/local/Cellar/go/1.9.2/libexec/src/mime/multipart/multipart.go" timestamp="1513098712695" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/main.go" timestamp="1512683525522">
-        <mark key="[" line="14" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/adjustmentkey_testdata.go" timestamp="1509452864536">
-        <mark key="[" line="66" column="51" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db_test.go" timestamp="1513010898855">
-        <mark key="[" line="42" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1513096271429" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
-        <mark key="[" line="70" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/protos/squareup/inventory/service.proto" timestamp="1513104367282" />
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/sdk_samples/Inventory/RetrieveInventoryAdjustment/RetrieveInventoryAdjustmentRequest.php" timestamp="1512510445008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513105686370" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
-        <mark key="[" line="71" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513103282323" />
-      <file name="/dlv-debug.txt" timestamp="1510255045165">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions_translator_test.go" timestamp="1513024276747">
-        <mark key="[" line="64" column="111" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e7683193-aa05-481c-80bf-1905c55f41d5/console.sql" timestamp="1509239768787">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/eventstream/generate_labels_request_events.go" timestamp="1512753881451">
-        <mark key="[" line="50" column="114" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
-        <mark key="[" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/inventory/service/batch_change_inventory.proto" timestamp="1512165014447">
-        <mark key="[" line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1513096746952" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1513102799045" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/backfillproductidentifier/job_service_test.go" timestamp="1513029992956">
-        <mark key="[" line="301" column="165" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_queries.go" timestamp="1513101543437" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/v3.go" timestamp="1509708812506">
-        <mark key="[" line="418" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/mat/pretty.go" timestamp="1510506047574">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/images/util.go" timestamp="1513100088411" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_inventory_web_api_actions.go" timestamp="1513023998478">
-        <mark key="[" line="32" column="131" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
-        <mark key="[" line="131" column="72" />
-      </file>
-      <file name="/dummy.sql" timestamp="1509240032582">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/cost_actions.go" timestamp="1513104286951" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/import_helper/module.go" timestamp="1511182406203">
-        <mark key="[" line="99" column="1" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513093428387">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
-        <mark key="[" line="370" column="75" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513011663562">
-        <mark key="[" line="93" column="74" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/event.go" timestamp="1512754100106">
-        <mark key="[" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/config.go" timestamp="1513105117359" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1513100286924" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1510154892515">
-        <mark key="[" line="51" column="34" />
-      </file>
-      <file name="/usr/local/Cellar/go/1.9.2/libexec/src/bytes/buffer.go" timestamp="1513099413983" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513106888788" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/server.go" timestamp="1513096865965" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1513102963127" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/SHIFT.yaml" timestamp="1508345131553">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/posfe/server_test.go" timestamp="1510256747455">
-        <mark key="[" line="328" column="5" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-dc-common.yaml" timestamp="1510857534390">
-        <mark key="[" line="28" column="20" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1513108265969" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1513108272990" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513107450929" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513107955873" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513106734814">
         <mark key="[" line="125" column="33" />
         <mark key="]" line="125" column="33" />
