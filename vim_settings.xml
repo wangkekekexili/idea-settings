@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1513032213960">
+      <file name="/a.dummy" timestamp="1513040743964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/connect-public-protos/protos/squareup/connect/v2/examples/actions/catalog/search_catalog_objects_request.json" timestamp="1512144846891">
@@ -57,6 +57,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/status/status.go" timestamp="1513040806494" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,6 +92,12 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db_test.go" timestamp="1513010898855">
         <mark key="[" line="42" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" timestamp="1513040763614">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" timestamp="1510782939027">
         <mark key="[" line="70" column="59" />
@@ -131,6 +138,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="109" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/web/module.go" timestamp="1513040922113">
+        <mark key="[" line="207" column="4" />
+        <mark key="]" line="207" column="8" />
+        <mark key="^" line="207" column="8" />
+        <mark key="." line="207" column="8" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/config/test-development.yaml" timestamp="1510171103373">
         <mark key="[" line="21" column="20" />
@@ -305,6 +318,7 @@
       <jump line="158" column="9" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/clone.go" />
       <jump line="181" column="20" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints_builder.go" />
       <jump line="27" column="96" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions.go" />
+      <jump line="28" column="12" filename="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -434,6 +448,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
