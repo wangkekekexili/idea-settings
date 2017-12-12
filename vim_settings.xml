@@ -57,7 +57,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/status/status.go" timestamp="1513040806494" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/282d70db-d51e-42f5-9f3d-9838a7b1ccd7/console.sql" timestamp="1509239874527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +107,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_adjustment.go" timestamp="1509127733292">
         <mark key="[" line="71" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_events_actions.go" timestamp="1513016030558" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513030081357">
         <mark key="[" line="34" column="33" />
         <mark key="]" line="173" column="0" />
@@ -117,7 +115,6 @@
       <file name="/dlv-debug.txt" timestamp="1510255045165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1512750334512" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/module.go" timestamp="1513024033457">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="8" />
@@ -163,11 +160,9 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1512751248613" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/backfillproductidentifier/job_service_test.go" timestamp="1513029992956">
         <mark key="[" line="301" column="165" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/comparison.go" timestamp="1513020171560" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1513032219184">
         <mark key="[" line="1859" column="62" />
         <mark key="]" line="1859" column="8" />
@@ -186,14 +181,13 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/testutil/builder/adjustment_builder.go" timestamp="1509452593097">
         <mark key="[" line="131" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/eventstream/event_store.go" timestamp="1513011159036" />
       <file name="/dummy.sql" timestamp="1509240032582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/import_helper/module.go" timestamp="1511182406203">
         <mark key="[" line="99" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513014756070">
+      <file name="/Dummy.txt" timestamp="1513093428387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/page_tile.go" timestamp="1510663195596">
@@ -231,7 +225,6 @@
         <mark key="^" line="347" column="18" />
         <mark key="." line="346" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/generate_labels_request_events.go" timestamp="1513009963660" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513009896671">
         <mark key="[" line="762" column="0" />
         <mark key="]" line="762" column="0" />
