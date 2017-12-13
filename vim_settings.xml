@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1513110064557" />
+      <file name="$USER_HOME$/Development/go/src/square/up/vendor/stash.corp.squareup.com/go/go-zookeeper.git/zk/conn.go" timestamp="1513181354483" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513179731467" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1513117988218" />
@@ -15,7 +16,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1513115531913">
         <mark key="[" line="75" column="110" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513180376828" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513181332602" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/module.go" timestamp="1513112216483" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1513180112587">
         <mark key="[" line="157" column="158" />
