@@ -5,17 +5,38 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/validate_v3/validate_v3.go" timestamp="1513182076092" />
+      <file name="/a.dummy" timestamp="1513187399206">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1513110064557" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/stash.corp.squareup.com/go/go-zookeeper.git/zk/conn.go" timestamp="1513184391867" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513182917927" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/actions.go" timestamp="1513186951708">
+        <mark key="[" line="416" column="101" />
+        <mark key="]" line="416" column="0" />
+        <mark key="^" line="416" column="0" />
+        <mark key="." line="416" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1513117988218" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/module.go" timestamp="1513182155699">
         <mark key="[" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
-      <file name="/Dummy.txt" timestamp="1513180694504">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
+        <mark key="[" line="174" column="88" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/module.go" timestamp="1513188115700">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="40" />
+        <mark key="^" line="92" column="40" />
+        <mark key="." line="92" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513187660078">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
+        <mark key="[" line="93" column="68" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1513115531913" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513184997246">
@@ -25,6 +46,12 @@
         <mark key="." line="126" column="28" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/module.go" timestamp="1513112216483" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1513186647334">
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1513180112587">
         <mark key="[" line="157" column="158" />
         <mark key="]" line="289" column="73" />
@@ -32,6 +59,7 @@
         <mark key="." line="289" column="73" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1513111739992" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1513187591197" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513107955873" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513183666341">
         <mark key="[" line="183" column="0" />
@@ -43,10 +71,19 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
+        <mark key="[" line="717" column="108" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513106734814">
         <mark key="[" line="125" column="33" />
         <mark key="]" line="125" column="33" />
         <mark key="." line="125" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
+        <mark key="[" line="2390" column="109" />
+        <mark key="]" line="2390" column="48" />
+        <mark key="^" line="2390" column="48" />
+        <mark key="." line="2390" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -126,7 +163,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGdybykK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -138,31 +175,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGdybykK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXRpbWUuU2xlZXAodGltZS5Ib3VyKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZlZWRzICpzZXJ2ZXIuRmVlZHNNb2R1bGUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CW0uZmVlZHMuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CX0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlwYW5pYygiUG9wTiBjYW4gb25seSBiZSB1c2VkIGluIHRlc3RzIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWlmICFtLmJhc2UuSXNEZXZlbG9wbWVudCgpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CW0uQmFzZS5pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXJldHVybiBGZWF0dXJlTmFtZVN0b2NrT3RoZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihzdHJpbmcoZCkpCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIEZlYXR1cmVOYW1lU3RvY2tSZXR1cm5lZAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
