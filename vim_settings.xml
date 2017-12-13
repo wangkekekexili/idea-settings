@@ -35,6 +35,7 @@
       <file name="/Dummy.txt" timestamp="1513187660078">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/webhooks/app/samsa/source.go" timestamp="1513190364436" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
       </file>
@@ -52,6 +53,7 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/samsa_producer/module.go" timestamp="1513190250637" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1513180112587">
         <mark key="[" line="157" column="158" />
         <mark key="]" line="289" column="73" />
