@@ -56,6 +56,11 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_v3_test.go" timestamp="1513193222566" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/sync_producer.go" timestamp="1513193501859" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1513200390068">
+        <mark key="[" line="1813" column="55" />
+        <mark key="]" line="1813" column="55" />
+        <mark key="." line="1813" column="55" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/runner.go" timestamp="1513193315088" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513182917927" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
@@ -175,11 +180,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
+      <register name="&quot;" type="4">
+        <text>Sold</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Sold</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
