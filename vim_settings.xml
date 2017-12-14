@@ -18,14 +18,19 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1513195640414" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/stash.corp.squareup.com/go/go-zookeeper.git/zk/conn.go" timestamp="1513184391867" />
       <file name="$USER_HOME$/Development/go/src/github.com/samuel/go-zookeeper/zk/constants.go" timestamp="1513203938402" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1513280918198" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1513284886373" />
       <file name="$USER_HOME$/Development/go/src/square/up/multipass/mds_user.go" timestamp="1513271654351" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/OWNERS.yaml" timestamp="1513204044358" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_cleanup.go" timestamp="1513282163380" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_cleanup.go" timestamp="1513284846626">
+        <mark key="[" line="137" column="70" />
+        <mark key="]" line="137" column="70" />
+        <mark key="^" line="137" column="70" />
+        <mark key="." line="137" column="70" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/webhooks/app/samsa/source.go" timestamp="1513190364436" />
       <file name="/module.go" timestamp="1513193295179" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513204551266" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513281713956" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513284183658" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/example_test.go" timestamp="1513202712429" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/util.go" timestamp="1513204041582" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/test_util.go" timestamp="1513268238478" />
@@ -52,7 +57,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_computation_status.go" timestamp="1513280728712" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/sync_producer.go" timestamp="1513272609312" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/runner.go" timestamp="1513270001927" />
-      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513282201906" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513283205489" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
@@ -86,7 +91,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/inventory/v3/jobs.pb.go" timestamp="1513279538573" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513279548011" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1513279215609" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513281533838">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513284166544">
         <mark key="[" line="125" column="33" />
         <mark key="]" line="125" column="33" />
         <mark key="." line="125" column="33" />
