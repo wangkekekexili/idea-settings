@@ -5,11 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/module.go" timestamp="1513270464440" />
-      <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/client_provider.go" timestamp="1513274188103">
-        <mark key="[" line="102" column="28" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="32" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/validate_v3/validate_v3.go" timestamp="1513182076092" />
       <file name="$USER_HOME$/Development/go/src/github.com/samuel/go-zookeeper/zk/conn.go" timestamp="1513203819256" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_test.go" timestamp="1513267707626" />
@@ -38,12 +33,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
         <mark key="[" line="174" column="88" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/module.go" timestamp="1513199093681">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="85" column="43" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/webhooks/app/samsa/source.go" timestamp="1513190364436" />
       <file name="/module.go" timestamp="1513193295179" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513204551266" />
@@ -68,23 +57,13 @@
         <mark key="." line="2390" column="48" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1513271823799" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_v3_test.go" timestamp="1513273042539">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="^" line="344" column="29" />
-        <mark key="." line="342" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_v3_test.go" timestamp="1513276817916" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/sync_producer.go" timestamp="1513272609312" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1513201082938">
-        <mark key="[" line="1813" column="55" />
-        <mark key="]" line="1813" column="55" />
-        <mark key="." line="1813" column="55" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/runner.go" timestamp="1513270001927" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513182917927" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
-      <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513273701813">
+      <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
         <mark key="]" line="107" column="26" />
         <mark key="^" line="107" column="26" />
@@ -98,7 +77,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1513192149027" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1513115531913" />
-      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513271535138">
+      <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513278177733">
         <mark key="[" line="580" column="60" />
         <mark key="]" line="126" column="28" />
         <mark key="^" line="126" column="28" />
@@ -111,12 +90,6 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/samsa_producer/module.go" timestamp="1513272581649">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="45" column="69" />
-        <mark key="^" line="45" column="69" />
-        <mark key="." line="45" column="69" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1513267582222">
         <mark key="[" line="156" column="87" />
         <mark key="]" line="298" column="18" />
@@ -125,11 +98,11 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1513111739992" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513107955873" />
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/zookeeper-test/main.go" timestamp="1513204920860">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/zookeeper-test/main.go" timestamp="1513278029618">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -208,11 +181,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -221,31 +194,32 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHRpbWUuTm93KCksIG1zZy5NZXNzYWdlLCBvaykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CW1zZywgb2sgOj0gPC1zYW1zYUNsaWVudENoYW5uZWwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbi5NZXNzYWdlcygpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWNvbiwgZXJyIDo9IGMuQ29uc3VtZXIoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CX0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiBldmVudC5UeXBlID09IHprLkV2ZW50Tm9kZURhdGFDaGFuZ2VkIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZvciBldmVudCA6PSByYW5nZSBldmVudHMgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CV8sIF8sIGV2ZW50cywgXyA6PSBjb25uLkdldFcoYC9teXNlY29uZG5vZGVgKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>.
+			conn</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0LkZhdGFsKGVycikK</text>
+        <text encoding="base64">CQlnbG9nLkVycm9yKCJzYW1zYSBwcm9kdWNlciBpcyBuaWwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CXRpbWUuU2xlZXAoMiAqIHRpbWUuU2Vjb25kKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
