@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/module.go" timestamp="1513270464440" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/validate_v3/validate_v3.go" timestamp="1513182076092" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots.go" timestamp="1513624366154" />
       <file name="$USER_HOME$/Development/go/src/github.com/samuel/go-zookeeper/zk/conn.go" timestamp="1513203819256" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_test.go" timestamp="1513267707626" />
       <file name="/usr/local/Cellar/go/1.9.2/libexec/src/testing/testing.go" timestamp="1513271887825" />
@@ -31,7 +32,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/webhooks/app/samsa/source.go" timestamp="1513190364436" />
       <file name="/module.go" timestamp="1513193295179" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513204551266" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513623318194" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513623912072" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/example_test.go" timestamp="1513202712429" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/util.go" timestamp="1513204041582" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/test_util.go" timestamp="1513268238478" />
@@ -63,7 +64,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/notifier/runner.go" timestamp="1513270001927" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513283205489" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/admin/actions.go" timestamp="1513118005462" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_family.go" timestamp="1513623302510" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_family.go" timestamp="1513623592738" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
@@ -98,7 +99,9 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1513111739992" />
       <file name="/cost_adjustment_lots_computation.go" timestamp="1513288699650" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/inventory/v3/jobs.pb.go" timestamp="1513279538573" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/obj_state.go" timestamp="1513624134800" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513279548011" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_computation.go" timestamp="1513624377167" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1513279215609" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513620929838">
         <mark key="[" line="125" column="33" />
