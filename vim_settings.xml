@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/webhooks/app/samsa/source.go" timestamp="1513190364436" />
       <file name="/module.go" timestamp="1513193295179" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513204551266" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513613010633" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513614766124" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/example_test.go" timestamp="1513202712429" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/util.go" timestamp="1513204041582" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/test_util.go" timestamp="1513268238478" />
@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/inventory/v3/jobs.pb.go" timestamp="1513279538573" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513279548011" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1513279215609" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513367766964">
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513614534035">
         <mark key="[" line="125" column="33" />
         <mark key="]" line="125" column="33" />
         <mark key="." line="125" column="33" />
