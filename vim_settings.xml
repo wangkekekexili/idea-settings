@@ -57,6 +57,7 @@
         <mark key="." line="2390" column="48" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module.go" timestamp="1513279283548" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/fix_objects_v3/fix_objects_v3.go" timestamp="1513630897285" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/multipass/api.pb.go" timestamp="1513271823799" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/test-items-api/items_api_v3_test.go" timestamp="1513276817916" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1513290852564" />
