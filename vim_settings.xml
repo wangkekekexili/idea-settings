@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/module.go" timestamp="1513182155699">
         <mark key="[" line="59" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/.gitignore" timestamp="1513705230020" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant_api.go" timestamp="1513637057141" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/OWNERS.yaml" timestamp="1513204044358" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
@@ -32,6 +33,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1513626784340" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/util.go" timestamp="1513204041582" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/user_request.go" timestamp="1513271649784" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/admin.proto" timestamp="1513705449893" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" timestamp="1513702889062" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/config/test-development.yaml" timestamp="1513202685455" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1513271588328" />
@@ -40,6 +42,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant.go" timestamp="1513637065053" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1513290852564" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_computation_status.go" timestamp="1513280728712" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant_api_module.go" timestamp="1513705494628" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper_clusters.go" timestamp="1513283205489" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-common.yaml" timestamp="1513107499714" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
@@ -69,6 +72,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/multipass/mds_user.go" timestamp="1513271654351" />
       <file name="/module.go" timestamp="1513193295179" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1513204551266" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/admin/module.go" timestamp="1513705473023" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/example_test.go" timestamp="1513202712429" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/test_util.go" timestamp="1513268238478" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1513192210010" />
