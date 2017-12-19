@@ -32,7 +32,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/feeds_module.go" timestamp="1513115531913" />
       <file name="/cost_lots_cleanup.go" timestamp="1513288044013" />
       <file name="/db.go" timestamp="1513288038214" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/service.proto" timestamp="1513636659531" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/service.proto" timestamp="1513637983047" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1513111739992" />
       <file name="/cost_adjustment_lots_computation.go" timestamp="1513288699650" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1513279548011" />
