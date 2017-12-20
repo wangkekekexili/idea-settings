@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant.go" timestamp="1513637065053" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1513290852564" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_computation_status.go" timestamp="1513280728712" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513794640050">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513795761311">
         <mark key="[" line="77" column="5" />
         <mark key="]" line="77" column="7" />
         <mark key="." line="77" column="7" />
