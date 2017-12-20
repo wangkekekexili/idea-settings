@@ -125,7 +125,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/OWNERS.yaml" timestamp="1513632176443" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/data.proto" timestamp="1513721863088" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/context.go" timestamp="1513279215609" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/dashboard/reports.go" timestamp="1513802134589" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/dashboard/reports.go" timestamp="1513803373590" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/watcher/module.go" timestamp="1513107436256" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/actions.go" timestamp="1513722436660">
         <mark key="[" line="103" column="0" />
@@ -147,9 +147,9 @@
         <mark key="." line="208" column="12" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1513800051463">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots_test.go" timestamp="1513722353327">
         <mark key="[" line="721" column="17" />
@@ -197,6 +197,7 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments_test.go" timestamp="1513291193961" />
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/items/merchant/api.pb.go" timestamp="1513803566446" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
         <mark key="[" line="2390" column="109" />
         <mark key="]" line="2390" column="48" />
