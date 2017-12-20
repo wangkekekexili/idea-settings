@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/config/test-development.yaml" timestamp="1513202685455" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/sub2/common/common.pb.go" timestamp="1513710399813" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/cogs_batch.go" timestamp="1513271588328" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1513715183401">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1513799968461">
         <mark key="[" line="356" column="47" />
         <mark key="]" line="356" column="47" />
         <mark key="." line="356" column="47" />
@@ -145,11 +145,10 @@
         <mark key="^" line="208" column="12" />
         <mark key="." line="208" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1513718273247">
-        <mark key="[" line="337" column="39" />
-        <mark key="]" line="337" column="30" />
-        <mark key="^" line="337" column="30" />
-        <mark key="." line="337" column="30" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1513800051463">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots_test.go" timestamp="1513722353327">
         <mark key="[" line="721" column="17" />
@@ -218,6 +217,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/bill_adjustments.go" timestamp="1513626979410" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter_test.go" timestamp="1513800062501">
+        <mark key="a" line="1111" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1513192149027" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_average_computation.go" timestamp="1513626050212" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/module.go" timestamp="1513272035793" />
@@ -334,7 +336,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -346,31 +348,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS8vIFRPRE8oc2VpbGVyKTogSGFuZGxlIG1lcmNoYW50LW5vdC1wZXJpc3RlZCBlcnJvciBjb3JyZWN0bHkuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyIGNhbGNlbCBmdW5jKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZGVmZXIgY2FsY2VsKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gSWYgdGhlIG1lcmNoYW50IGlzIHBlcnNpc3RlZCwgaXQgd2lsbCBzZXQgdGhlIG1lcmNoYW50J3MgRW5hYmxlR2VuZXJhdGVTbmFwc2hvdHMgdG8gdHJ1ZS4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlnbG9nLldhcm5pbmdmKCJObyB2YWxpZCBkZXBvc2l0IHNjaGVkdWxlcyBmb3IgbWVyY2hhbnQgJXYiLCBtZXJjaGFudFRva2VuKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CX0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQl0b2tlblNldFt0b2tlbl0gPSB0cnVlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWZvciBfLCB0b2tlbiA6PSByYW5nZSB0b2tlbnMgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXRva2VuU2V0IDo9IG1ha2UobWFwW3N0cmluZ11ib29sLCBsZW4odG9rZW5zKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIFRPRE8oc2VpbGVyKTogSGFuZGxlIG1lcmNoYW50LW5vdC1wZXJpc3RlZCBlcnJvciBjb3JyZWN0bHkuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdmFyIGNhbGNlbCBmdW5jKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJZGVmZXIgY2FsY2VsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gSWYgdGhlIG1lcmNoYW50IGlzIHBlcnNpc3RlZCwgaXQgd2lsbCBzZXQgdGhlIG1lcmNoYW50J3MgRW5hYmxlR2VuZXJhdGVTbmFwc2hvdHMgdG8gdHJ1ZS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
