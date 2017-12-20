@@ -6,6 +6,7 @@
       <file name="/a.dummy" timestamp="1513187399206">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1513812715716" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments.go" timestamp="1513199205753">
         <mark key="[" line="209" column="26" />
       </file>
@@ -50,6 +51,7 @@
         <mark key="." line="77" column="7" />
         <mark key="^" line="77" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1513812737232" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513796780463">
         <mark key="[" line="472" column="58" />
       </file>
