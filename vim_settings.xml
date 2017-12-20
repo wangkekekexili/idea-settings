@@ -35,11 +35,11 @@
         <mark key="[" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/.gitignore" timestamp="1513705230020" />
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/main.go" timestamp="1513804424839">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/main.go" timestamp="1513804526592">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant_api.go" timestamp="1513719800636">
         <mark key="[" line="87" column="0" />
