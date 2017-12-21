@@ -22,20 +22,11 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513796577781">
-        <mark key="[" line="77" column="5" />
-        <mark key="]" line="77" column="7" />
-        <mark key="." line="77" column="7" />
-        <mark key="^" line="77" column="7" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/local.go" timestamp="1513271058804">
         <mark key="[" line="208" column="13" />
         <mark key="]" line="208" column="12" />
         <mark key="^" line="208" column="12" />
         <mark key="." line="208" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513879079703">
-        <mark key="[" line="472" column="58" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1513800051463">
         <mark key="[" line="299" column="0" />
@@ -82,14 +73,62 @@
         <mark key="^" line="137" column="70" />
         <mark key="." line="137" column="70" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
+        <mark key="[" line="174" column="88" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/protos/squareup/inventory/jobs.proto" timestamp="1513880668402" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/merchant/api.proto" timestamp="1513874734939" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513199310080">
+        <mark key="[" line="469" column="19" />
+      </file>
+      <file name="/dlv-debug.txt" timestamp="1513786977977">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513196345767">
+        <mark key="[" line="182" column="68" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="183" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" timestamp="1513878452077">
+        <mark key="'" line="37" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/zoo/zoo.go" timestamp="1513183827507">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1513799968461">
+        <mark key="[" line="356" column="47" />
+        <mark key="]" line="356" column="47" />
+        <mark key="." line="356" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513877945641">
+        <mark key="[" line="48" column="104" />
+        <mark key="]" line="48" column="71" />
+        <mark key="." line="48" column="71" />
+        <mark key="^" line="48" column="71" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
+        <mark key="[" line="2390" column="109" />
+        <mark key="]" line="2390" column="48" />
+        <mark key="^" line="2390" column="48" />
+        <mark key="." line="2390" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513796577781">
+        <mark key="[" line="77" column="5" />
+        <mark key="]" line="77" column="7" />
+        <mark key="." line="77" column="7" />
+        <mark key="^" line="77" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
+        <mark key="[" line="472" column="58" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
         <mark key="]" line="107" column="26" />
         <mark key="^" line="107" column="26" />
         <mark key="." line="107" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
-        <mark key="[" line="174" column="88" />
       </file>
       <file name="/Dummy.txt" timestamp="1513878399369">
         <mark key="[" line="0" column="0" />
@@ -115,26 +154,13 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/merchant/api.proto" timestamp="1513874734939" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513199310080">
-        <mark key="[" line="469" column="19" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1513267582222">
         <mark key="[" line="156" column="87" />
         <mark key="]" line="298" column="18" />
         <mark key="." line="298" column="18" />
         <mark key="^" line="298" column="18" />
       </file>
-      <file name="/dlv-debug.txt" timestamp="1513786977977">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/relations.go" timestamp="1513879016321" />
-      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513196345767">
-        <mark key="[" line="182" column="68" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="183" column="23" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/jobs/snapshot_cron/module.go" timestamp="1513719832107">
         <mark key="[" line="71" column="42" />
         <mark key="]" line="140" column="39" />
@@ -146,33 +172,8 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" timestamp="1513878452077">
-        <mark key="'" line="37" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/zoo/zoo.go" timestamp="1513183827507">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1513799968461">
-        <mark key="[" line="356" column="47" />
-        <mark key="]" line="356" column="47" />
-        <mark key="." line="356" column="47" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
         <mark key="[" line="717" column="108" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513877945641">
-        <mark key="[" line="48" column="104" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="48" column="71" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
-        <mark key="[" line="2390" column="109" />
-        <mark key="]" line="2390" column="48" />
-        <mark key="^" line="2390" column="48" />
-        <mark key="." line="2390" column="48" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_dirty_adjustments.go" timestamp="1513625013689">
         <mark key="[" line="125" column="33" />
