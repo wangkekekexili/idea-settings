@@ -59,6 +59,7 @@
       <file name="/dlv-debug.txt" timestamp="1513786977977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/content/fixture/test_generate_po_confirmatiom_email.html" timestamp="1513894972513" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513196345767">
         <mark key="[" line="182" column="68" />
         <mark key="]" line="183" column="0" />
@@ -96,7 +97,7 @@
         <mark key="^" line="107" column="26" />
         <mark key="." line="107" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513878399369">
+      <file name="/Dummy.txt" timestamp="1513894661110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
