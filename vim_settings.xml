@@ -16,11 +16,11 @@
       <file name="/a.dummy" timestamp="1513187399206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/internal.proto" timestamp="1513874753505">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/protos/squareup/invreporter/internal.proto" timestamp="1513878828854">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513796577781">
         <mark key="[" line="77" column="5" />
@@ -34,7 +34,7 @@
         <mark key="^" line="208" column="12" />
         <mark key="." line="208" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513874505524">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513879079703">
         <mark key="[" line="472" column="58" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1513800051463">
@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
         <mark key="[" line="174" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513722872429">
+      <file name="/Dummy.txt" timestamp="1513878399369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter_test.go" timestamp="1513800062501">
@@ -128,7 +128,7 @@
       <file name="/dlv-debug.txt" timestamp="1513786977977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/relations.go" timestamp="1513874302805" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/relations.go" timestamp="1513879016321" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513196345767">
         <mark key="[" line="182" column="68" />
         <mark key="]" line="183" column="0" />
@@ -146,6 +146,9 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" timestamp="1513878452077">
+        <mark key="'" line="37" column="48" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/zoo/zoo.go" timestamp="1513183827507">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="33" column="0" />
@@ -159,10 +162,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
         <mark key="[" line="717" column="108" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513877223136">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513877945641">
         <mark key="[" line="48" column="104" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="]" line="48" column="71" />
+        <mark key="." line="48" column="71" />
+        <mark key="^" line="48" column="71" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
         <mark key="[" line="2390" column="109" />
@@ -253,16 +257,17 @@
       <jump line="181" column="20" filename="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints_builder.go" />
       <jump line="27" column="96" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions.go" />
       <jump line="28" column="12" filename="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" />
+      <jump line="37" column="48" filename="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TEST</text>
       </register>
       <register name="-" type="4">
-        <text>invreporter</text>
+        <text>TEST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
