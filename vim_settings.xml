@@ -159,11 +159,10 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
         <mark key="[" line="717" column="108" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513875239309">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513877223136">
+        <mark key="[" line="48" column="104" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po_test.go" timestamp="1513186936602">
         <mark key="[" line="2390" column="109" />
@@ -259,8 +258,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>invreporter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>invreporter</text>
@@ -272,31 +271,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWVyciA9IGQuUXVlcnlSb3coInNlbGVjdCBjb3VudCgqKSBmcm9tIHNuYXBzaG90X2l0ZW1zIikuU2NhbigmY291bnQpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXZhciBjb3VudCBpbnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">CQlwcm90by5TaXplKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWZ0ZXIiLCBwcm90by5TaXplKHJlY29yZHNbaV0pKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByb3RvLlNpemUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZGV0YWlscy5JdGVtLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
