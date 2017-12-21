@@ -40,10 +40,11 @@
         <mark key="]" line="356" column="47" />
         <mark key="." line="356" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513797015750">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/test/main.go" timestamp="1513873386751">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513796577781">
         <mark key="[" line="77" column="5" />
@@ -51,7 +52,7 @@
         <mark key="." line="77" column="7" />
         <mark key="^" line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1513812737232" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds.go" timestamp="1513872731097" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513796780463">
         <mark key="[" line="472" column="58" />
       </file>
@@ -63,6 +64,9 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/migrations/shard/v003__id.sql" timestamp="1513873300502">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/zookeeper.go" timestamp="1513278177733">
         <mark key="[" line="580" column="60" />
@@ -255,10 +259,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJYWNsLlJvbGUK</text>
+        <text encoding="base64">CWRiLm5ldwo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -267,31 +271,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYWNsLlJvbGUK</text>
+        <text encoding="base64">CWRiLm5ldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJpby9pb3V0aWwiCg==</text>
+        <text encoding="base64">CXNxbC5OZXcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+        <text encoding="base64">CQkJYWNsLlJvbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXcuQ2xvc2UoKQo=</text>
+        <text encoding="base64">CSJpby9pb3V0aWwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CXcuQ2xvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CV8sIGVyciA9IHcuV3JpdGUoYnl0ZXMpCg==</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
