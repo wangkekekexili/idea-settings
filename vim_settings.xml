@@ -99,9 +99,6 @@
       <file name="/Dummy.txt" timestamp="1513878399369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter_test.go" timestamp="1513800062501">
-        <mark key="a" line="1111" column="20" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
       </file>
@@ -127,6 +124,7 @@
         <mark key="^" line="298" column="18" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/relations.go" timestamp="1513879016321" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/config/invreporter-sjc1-staging.yaml" timestamp="1513883622005" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/jobs/snapshot_cron/module.go" timestamp="1513719832107">
         <mark key="[" line="71" column="42" />
         <mark key="]" line="140" column="39" />
