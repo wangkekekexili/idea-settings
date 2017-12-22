@@ -91,11 +91,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
         <mark key="[" line="472" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/vision.go" timestamp="1513961694956">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/vision.go" timestamp="1513962690296">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
