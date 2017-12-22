@@ -91,6 +91,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
         <mark key="[" line="472" column="58" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/vision.go" timestamp="1513961694956">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
         <mark key="]" line="107" column="26" />
@@ -220,8 +226,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>TEST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL2Nsb3VkL3Zpc2lvbi92MXAxYmV0YTEiCg==</text>
       </register>
       <register name="-" type="4">
         <text>TEST</text>
@@ -233,31 +239,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL2Nsb3VkL3Zpc2lvbi92MXAxYmV0YTEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwcm90by5TaXplKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWZ0ZXIiLCBwcm90by5TaXplKHJlY29yZHNbaV0pKQo=</text>
+        <text encoding="base64">CQlwcm90by5TaXplKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByb3RvLlNpemUK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWZ0ZXIiLCBwcm90by5TaXplKHJlY29yZHNbaV0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGV0YWlscy5JdGVtLgo=</text>
+        <text encoding="base64">CXByb3RvLlNpemUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
+        <text encoding="base64">CQkJZGV0YWlscy5JdGVtLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
