@@ -103,11 +103,11 @@
         <mark key="^" line="107" column="26" />
         <mark key="." line="107" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/token.go" timestamp="1513994615972">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gcp-storage-test/token.go" timestamp="1513996010744">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513894661110">
         <mark key="[" line="0" column="0" />
@@ -233,10 +233,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>TEST</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -245,31 +245,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL2Nsb3VkL3Zpc2lvbi92MXAxYmV0YTEiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUuZ29sYW5nLm9yZy9nZW5wcm90by9nb29nbGVhcGlzL2Nsb3VkL3Zpc2lvbi92MXAxYmV0YTEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcm90by5TaXplKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWZ0ZXIiLCBwcm90by5TaXplKHJlY29yZHNbaV0pKQo=</text>
+        <text encoding="base64">CQlwcm90by5TaXplKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb3RvLlNpemUK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYWZ0ZXIiLCBwcm90by5TaXplKHJlY29yZHNbaV0pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZGV0YWlscy5JdGVtLgo=</text>
+        <text encoding="base64">CXByb3RvLlNpemUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
+        <text encoding="base64">CQkJZGV0YWlscy5JdGVtLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGNvdW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
