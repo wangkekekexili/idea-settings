@@ -125,7 +125,8 @@
       <file name="/dlv-debug.txt" timestamp="1513786977977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1514487772031" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1514491735483" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1514491546602" />
       <file name="/usr/local/Cellar/go/1.9.2/libexec/src/flag/flag.go" timestamp="1514487672863" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1513196345767">
         <mark key="[" line="182" column="68" />
