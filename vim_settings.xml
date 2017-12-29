@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
         <mark key="[" line="174" column="88" />
       </file>
+      <file name="/module.go" timestamp="1514566232842" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/clustering/interface.go" timestamp="1514468642024" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/squalor/module.go" timestamp="1514520313268" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1513199310080">
@@ -37,17 +38,16 @@
       <file name="/usr/local/Cellar/go/1.9.2/libexec/src/flag/flag.go" timestamp="1514487672863" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/module_test.go" timestamp="1514551878619" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/activepassive/module.go" timestamp="1514464764406" />
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/test/main.go" timestamp="1514565828471">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="34" column="19" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/test/main.go" timestamp="1514566106277">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
         <mark key="[" line="472" column="58" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/module/doc.go" timestamp="1514523603784" />
-      <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514564566181">
+      <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514567012135">
         <mark key="[" line="494" column="0" />
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
@@ -150,7 +150,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWJBZGRyLgo=</text>
+        <text encoding="base64">CWIK</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -162,31 +162,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJBZGRyLgo=</text>
+        <text encoding="base64">CWIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGJBKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGJBZGRyLkludGVyZmFjZSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1vZHVsZS5OZXdDb250YWluZXIoJk1vZHVsZUF7fSwgZmFsc2UpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiVwIiwgYS5CKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWJBZGRyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC4gUHIK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGJBKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlZmxlY3QuVHlwZU9mKGEuYikpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CW1vZHVsZS5OZXdDb250YWluZXIoJk1vZHVsZUF7fSwgZmFsc2UpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHYuSXNOaWwoKSwgdi5DYW5TZXQoKSwgdi5DYW5BZGRyKCkpCg==</text>
+        <text encoding="base64">CWZtdC4gUHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHYuU3RyaW5nKCksIHYuSXNOaWwoKSwgdi4pCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlZmxlY3QuVHlwZU9mKGEuYikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
