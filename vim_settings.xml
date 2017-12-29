@@ -33,8 +33,8 @@
       <file name="/dlv-debug.txt" timestamp="1513786977977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1514551980797" />
-      <file name="$USER_HOME$/Development/go/src/square/up/service/config/config.go" timestamp="1514520532606" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/config/base_module.go" timestamp="1514569389011" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/config/config.go" timestamp="1514569516008" />
       <file name="/usr/local/Cellar/go/1.9.2/libexec/src/flag/flag.go" timestamp="1514487672863" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/module_test.go" timestamp="1514551878619" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/activepassive/module.go" timestamp="1514464764406" />
@@ -46,12 +46,15 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
         <mark key="[" line="472" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/util/cli/cli.go" timestamp="1514568040510" />
+      <file name="$USER_HOME$/Development/go/src/square/up/util/cli/cli.go" timestamp="1514568772583" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/doc.go" timestamp="1514523603784" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514567012135">
         <mark key="[" line="494" column="0" />
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/test/main.go" timestamp="1514569353956">
+        <mark key="[" line="0" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1513894661110">
         <mark key="[" line="0" column="0" />
@@ -59,7 +62,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1514568105780" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1514568970281" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/migrations/shard/v003__id.sql" timestamp="1513873300502">
         <mark key="[" line="0" column="0" />
       </file>
