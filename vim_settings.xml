@@ -27,12 +27,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/module.go" timestamp="1514520715799">
         <mark key="[" line="59" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/main.go" timestamp="1514552370565">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/test/main.go" timestamp="1514569353956">
         <mark key="[" line="0" column="12" />
       </file>
@@ -62,7 +56,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/config/config.go" timestamp="1514570547198" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/error_reporter/module.go" timestamp="1514577406768" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/error_reporter/composite.go" timestamp="1514572411198" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/error_reporter/interface.go" timestamp="1514577414662" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/module.go" timestamp="1514565769299">
         <mark key="[" line="493" column="55" />
         <mark key="]" line="495" column="0" />
