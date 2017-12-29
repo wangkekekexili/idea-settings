@@ -81,6 +81,12 @@
         <mark key="^" line="2390" column="48" />
         <mark key="." line="2390" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/test/main.go" timestamp="1514554861021">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1513796577781">
         <mark key="[" line="77" column="5" />
         <mark key="]" line="77" column="7" />
@@ -94,7 +100,7 @@
         <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/module/doc.go" timestamp="1514523603784" />
-      <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514554043794" />
+      <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514554648091" />
       <file name="$USER_HOME$/Development/go/src/square/up/samsa/mocks/sync_producer.go" timestamp="1513276057755">
         <mark key="[" line="72" column="53" />
         <mark key="]" line="107" column="26" />
@@ -132,6 +138,11 @@
         <mark key="]" line="140" column="39" />
         <mark key="." line="140" column="39" />
         <mark key="^" line="140" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/module.go" timestamp="1514554881612">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/zookeeper-test/main.go" timestamp="1513278824519">
         <mark key="[" line="35" column="35" />
@@ -218,7 +229,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJnby9idWlsZCIK</text>
+        <text encoding="base64">CSJzdGFzaC5jb3JwLnNxdWFyZXVwLmNvbS9nby9nbG9nLmdpdCIK</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -230,31 +241,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnby9idWlsZCIK</text>
+        <text encoding="base64">CSJzdGFzaC5jb3JwLnNxdWFyZXVwLmNvbS9nby9nbG9nLmdpdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuCg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJydW50aW1lIgo=</text>
+        <text encoding="base64">CSJnby9idWlsZCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJ1bnRpbWUuTnVtQ1BVKCkpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Im9zIgo=</text>
+        <text encoding="base64">CSJydW50aW1lIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJ1bnRpbWUuTnVtQ1BVKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKG9zLkhvc3RuYW1lKCkK</text>
+        <text encoding="base64">Im9zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKG9zLkhvc3RuYW1lKCkpCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKG9zLkhvc3RuYW1lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
