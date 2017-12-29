@@ -46,6 +46,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1513880163884">
         <mark key="[" line="472" column="58" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/util/cli/cli.go" timestamp="1514568040510" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/doc.go" timestamp="1514523603784" />
       <file name="$USER_HOME$/Development/go/src/square/up/module/module.go" timestamp="1514567012135">
         <mark key="[" line="494" column="0" />
@@ -58,10 +59,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1514555589233" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/app.go" timestamp="1514568105780" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/migrations/shard/v003__id.sql" timestamp="1513873300502">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/service/datasource/commands.go" timestamp="1514567851351" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/predicates/module.go" timestamp="1514491735483" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/module.go" timestamp="1514565769299">
         <mark key="[" line="493" column="55" />
