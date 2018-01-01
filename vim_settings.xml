@@ -61,6 +61,12 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/h2b/main.go" timestamp="1514811685707">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/module.go" timestamp="1514520715799">
         <mark key="[" line="59" column="29" />
       </file>
@@ -156,11 +162,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>h2b</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>h2b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
