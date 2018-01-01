@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1514813490693" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/test/test/main.go" timestamp="1514584747181">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -10,6 +11,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1514758243317">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/test/main.go" timestamp="1514813522098">
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/logging-test/main.go" timestamp="1514758831085">
         <mark key="[" line="4" column="0" />
@@ -60,11 +66,11 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/h2b/main.go" timestamp="1514811988996">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/h2b/main.go" timestamp="1514813729996">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/module.go" timestamp="1514520715799">
         <mark key="[" line="59" column="29" />
@@ -77,6 +83,7 @@
         <mark key="]" line="495" column="0" />
         <mark key="." line="495" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/ledger/service/deposit_settings.pb.go" timestamp="1514813589204" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
         <mark key="[" line="717" column="108" />
       </file>
@@ -161,11 +168,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>h2b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h2b</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -174,31 +181,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhiKSkK</text>
+        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWIsIGVyciA6PSBqc29uLk1hcnNoYWwobWVzc2FnZSkK</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
