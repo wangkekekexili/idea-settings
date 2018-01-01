@@ -52,7 +52,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/cloud.google.com/go/logging/logging.go" timestamp="1514758625252" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments.go" timestamp="1513199205753">
         <mark key="[" line="209" column="26" />
       </file>
@@ -61,8 +60,8 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/h2b/main.go" timestamp="1514811685707">
-        <mark key="[" line="10" column="4" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/h2b/main.go" timestamp="1514811988996">
+        <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
