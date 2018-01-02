@@ -11,10 +11,11 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/actions.go" timestamp="1514826852780" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/reporter_api.go" timestamp="1514827221519" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1514919476206" />
       <file name="/a.dummy" timestamp="1514565625859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1514916015010" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1514918885109" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query_test.go" timestamp="1514914923121" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1514827484008">
         <mark key="[" line="472" column="58" />
@@ -25,6 +26,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/api/module.go" timestamp="1514919355525" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/legacy_adjustments.go" timestamp="1513199205753">
         <mark key="[" line="209" column="26" />
       </file>
@@ -42,7 +44,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/po_actions.go" timestamp="1513186775254">
         <mark key="[" line="174" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514758243317">
+      <file name="/Dummy.txt" timestamp="1514919542805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/test/main.go" timestamp="1514813522098">
@@ -50,6 +52,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/api/common/interface.go" timestamp="1514919371818" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/logging-test/main.go" timestamp="1514758831085">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
