@@ -10,11 +10,12 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/server/actions.go" timestamp="1514826852780" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/reporter_api.go" timestamp="1514825967788" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/reporter_api.go" timestamp="1514827221519" />
       <file name="/a.dummy" timestamp="1514565625859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1514826286026">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1514839085427" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1514827484008">
         <mark key="[" line="472" column="58" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/pdf/remove_footer.go" timestamp="1514647299805">
