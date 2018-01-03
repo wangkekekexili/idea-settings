@@ -35,6 +35,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/xp/api/common/interface.go" timestamp="1514919371818" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/logging-test/main.go" timestamp="1515004365413">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/email/job_service_test.go" timestamp="1513186784286">
         <mark key="[" line="93" column="68" />
       </file>
@@ -138,10 +143,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -150,31 +155,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CW9zLlNldGVudigiR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTIiwgIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CUNyZWRlbnRpYWxMb2FkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9qc29uIgo=</text>
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvb2F1dGgyL2dvb2dsZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CU1ha2VDcmVkZW50aWFscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhiKSkK</text>
+        <text encoding="base64">CWdvb2dsZS5EZWZhdWx0Q2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
