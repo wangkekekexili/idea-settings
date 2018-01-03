@@ -58,6 +58,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/jobs/snapshot_cron/module.go" timestamp="1514998059279" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1514998117934" />
+      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1515005323477" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/config/invreporter-prod-common.yaml" timestamp="1515002527549" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/ledger/service/deposit_settings.pb.go" timestamp="1514813589204" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
