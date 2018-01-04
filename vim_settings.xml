@@ -40,6 +40,12 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515089847086" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/config.go" timestamp="1515006233719" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/invreporter/service.pb.go" timestamp="1514826680586" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515097333170">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1514813490693" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/runtime/runtime.go" timestamp="1515083688848" />
       <file name="$USER_HOME$/Development/go/src/square/up/xp/api/validator.go" timestamp="1514921242723" />
@@ -176,7 +182,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CWNvbnRleHQyICJjb250ZXh0Igo=</text>
       </register>
       <register name="-" type="4">
         <text>ke_test_gcp</text>
@@ -188,31 +194,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CWNvbnRleHQyICJjb250ZXh0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJvcyIK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW9zLlNldGVudigiR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTIiwgIiIpCg==</text>
+        <text encoding="base64">CSJvcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUNyZWRlbnRpYWxMb2FkZXIK</text>
+        <text encoding="base64">CW9zLlNldGVudigiR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTIiwgIiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJnb2xhbmcub3JnL3gvb2F1dGgyL2dvb2dsZSIK</text>
+        <text encoding="base64">CUNyZWRlbnRpYWxMb2FkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CU1ha2VDcmVkZW50aWFscwo=</text>
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvb2F1dGgyL2dvb2dsZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdvb2dsZS5EZWZhdWx0Q2xpZW50Cg==</text>
+        <text encoding="base64">CU1ha2VDcmVkZW50aWFscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
+        <text encoding="base64">CWdvb2dsZS5EZWZhdWx0Q2xpZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJoZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiVxXG4iLCBoZXhTdHIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
