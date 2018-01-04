@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/module.go" timestamp="1515006249293" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1515005323477" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/config/invreporter-prod-common.yaml" timestamp="1515002527549" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/module_test.go" timestamp="1515102849655" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/waiter/module_test.go" timestamp="1515105708534" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/ledger/service/deposit_settings.pb.go" timestamp="1514813589204" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515089847086" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/config.go" timestamp="1515006233719" />
