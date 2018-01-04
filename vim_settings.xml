@@ -79,11 +79,11 @@
         <mark key="." line="477" column="41" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/config.go" timestamp="1514998278249" />
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/maingo.go" timestamp="1515092695868">
-        <mark key="[" line="9" column="29" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/maingo.go" timestamp="1515093566890">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_module.go" timestamp="1514998261547" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/jobs/snapshot_cron/module.go" timestamp="1514998059279" />
