@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1514813490693" />
       <file name="$USER_HOME$/Development/go/src/square/up/xp/api/validator.go" timestamp="1514921242723" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1514922450099" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1515026978396" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1514922618807">
         <mark key="[" line="472" column="58" />
       </file>
