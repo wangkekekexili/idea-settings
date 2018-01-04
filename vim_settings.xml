@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/module.go" timestamp="1515005323477" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/config/invreporter-prod-common.yaml" timestamp="1515002527549" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/ledger/service/deposit_settings.pb.go" timestamp="1514813589204" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515089847086" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/config.go" timestamp="1515006233719" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/invreporter/service.pb.go" timestamp="1514826680586" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1514813490693" />
@@ -44,9 +45,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/xp/api/validator.go" timestamp="1514921242723" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/query.go" timestamp="1514922450099" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1515026978396" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1514922618807">
-        <mark key="[" line="472" column="58" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1515025857008" />
       <file name="$USER_HOME$/Development/go/src/square/up/util/proto_validation/validation.go" timestamp="1514921609500" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/feeds/consumers/subscribed_feature/module.go" timestamp="1515006400854" />
@@ -71,7 +69,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/config.go" timestamp="1514998278249" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_module.go" timestamp="1514998261547" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/jobs/snapshot_cron/module.go" timestamp="1514998059279" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1514998117934" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515089785560" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/po.go" timestamp="1513186757313">
         <mark key="[" line="717" column="108" />
       </file>
