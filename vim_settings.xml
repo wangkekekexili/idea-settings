@@ -3,8 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1515160307197" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1515160190090" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1515173348606">
+        <mark key="[" line="933" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import_test.go" timestamp="1515172441880" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_case_test.go" timestamp="1515170684797" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/db.go" timestamp="1515118170941">
+        <mark key="[" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/pdf/remove_footer.go" timestamp="1514647299805">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/till/module.go" timestamp="1515116779726">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse_test.go" timestamp="1515161225115" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/reporter.go" timestamp="1515117370438">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_walmart.go" timestamp="1515119413240">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/db/module.go" timestamp="1515119313748">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1515170233194" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/config.go" timestamp="1515118200735">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -22,24 +57,23 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_test.go" timestamp="1515161272627">
-        <mark key="[" line="2449" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_test.go" timestamp="1515170378264">
+        <mark key="[" line="2471" column="168" />
+        <mark key="]" line="2490" column="44" />
+        <mark key="^" line="2490" column="44" />
+        <mark key="." line="2490" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/db.go" timestamp="1515118170941">
-        <mark key="[" line="11" column="15" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_metadata.go" timestamp="1515173338975">
+        <mark key="[" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/pdf/remove_footer.go" timestamp="1514647299805">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade.go" timestamp="1515171637403">
+        <mark key="[" line="520" column="40" />
+        <mark key="]" line="520" column="0" />
+        <mark key="^" line="520" column="0" />
+        <mark key="." line="520" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/till/module.go" timestamp="1515116779726">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse_test.go" timestamp="1515161225115" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_cases_test.go" timestamp="1515173896006" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/reporter/module.go" timestamp="1515117953960">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="20" column="13" />
@@ -55,12 +89,6 @@
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/reporter.go" timestamp="1515117370438">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
@@ -78,16 +106,6 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_walmart.go" timestamp="1515119413240">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="30" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/db/module.go" timestamp="1515119313748">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515115032336">
         <mark key="[" line="27" column="64" />
@@ -174,10 +192,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Logger</text>
+        <text>regular</text>
       </register>
       <register name="-" type="4">
-        <text>Logger</text>
+        <text>regular</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -186,31 +204,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL3BrZy9lcnJvcnMiCg==</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWFhYTCIsICJTb2RhIiwgIiIsICIiLCAiIiwgIlhYWFhMIiwgInZhcmlhYmxlIiwgIiIsICIxMi4wMCIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyb3JzLldyYXAoZXJyLCAiY2Fubm90IGxvYWQgbG9nZ2VyIikK</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWFhMIiwgIlNvZGEiLCAiIiwgIiIsICIiLCAiWFhYTCIsICJ2YXJpYWJsZSIsICIiLCAiMTEuMDAiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiJ9fSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW0ubG9nZ2VyLgo=</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWEwiLCAiU29kYSIsICIiLCAiIiwgIiIsICJYWEwiLCAidmFyaWFibGUiLCAiIiwgIjEwLjAwIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIifX0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YTCIsICJTb2RhIiwgIiIsICIiLCAiIiwgIlhMIiwgInZhcmlhYmxlIiwgIiIsICI5LjAwIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIifX0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZXJyb3JzLk5ldygiY2Fubm90IGxvYWQgZGIiKQo=</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5MYXJnZSIsICJTb2RhIiwgIiIsICIiLCAiIiwgImxhcmdlIiwgInZhcmlhYmxlIiwgIiIsICIxNS4wMCIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIGRiLkNvbmZpZyA9PSBuaWwgfHwgZGIuQ29uZmlnLk15c3FsRFNOID09ICIiIHsK</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5NZWRpdW0iLCAiU29kYSIsICIiLCAiIiwgIiIsICJtZWRpdW0iLCAidmFyaWFibGUiLCAiIiwgIjE0LjAwIiwgIlkiLCAiIiwgIjUiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVNlbnRyeURTTiBzdHJpbmcgYGVudjoiU0VOVFJZX0RTTixyZXF1aXJlZCJgCg==</text>
+        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5TbWFsbCIsICJTb2RhIiwgIiIsICIiLCAiIiwgInNtYWxsIiwgInZhcmlhYmxlIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIiwgIlkiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVRpbGxUYXJnZXQgc3RyaW5nIGBlbnY6IlRJTExfVEFSR0VUImAK</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVRpbGxVUkwgICAgc3RyaW5nIGBlbnY6IlRJTExfVVJMImAK</text>
+        <text encoding="base64">CQkJCQkibWVkaXVtIjogMTQwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
