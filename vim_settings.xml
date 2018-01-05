@@ -27,11 +27,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515089847086" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/config.go" timestamp="1515006233719" />
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/invreporter/service.pb.go" timestamp="1514826680586" />
-      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515097333170">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="28" column="1" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515115032336">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/waiter/module.go" timestamp="1515101858379" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1514813490693" />
