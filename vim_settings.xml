@@ -8,6 +8,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import_test.go" timestamp="1515172441880" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_case_test.go" timestamp="1515170684797" />
+      <file name="$USER_HOME$/Development/go/src/square/up/client/itemsclient/module.go" timestamp="1515178350447" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/pdf/remove_footer.go" timestamp="1514647299805">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="15" />
@@ -65,8 +66,9 @@
         <mark key="^" line="2490" column="44" />
         <mark key="." line="2490" column="44" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1515178238829" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1515176800098" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_metadata.go" timestamp="1515173338975">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_metadata.go" timestamp="1515178245854">
         <mark key="[" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade.go" timestamp="1515171637403">
