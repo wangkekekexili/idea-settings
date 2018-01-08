@@ -3,10 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1515428237499">
-        <mark key="[" line="933" column="68" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import_test.go" timestamp="1515172441880" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import_test.go" timestamp="1515430516567" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_case_test.go" timestamp="1515170684797" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1515189997135">
         <mark key="[" line="294" column="0" />
@@ -85,14 +82,16 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_metadata.go" timestamp="1515178245854">
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade.go" timestamp="1515171637403">
-        <mark key="[" line="520" column="40" />
-        <mark key="]" line="520" column="0" />
-        <mark key="^" line="520" column="0" />
-        <mark key="." line="520" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade.go" timestamp="1515431327870">
+        <mark key="[" line="611" column="30" />
+        <mark key="]" line="611" column="32" />
+        <mark key="." line="611" column="32" />
+        <mark key="^" line="611" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_cases_test.go" timestamp="1515173896006" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_cases_test.go" timestamp="1515430626038">
+        <mark key="[" line="1244" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/reporter/module.go" timestamp="1515117953960">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="20" column="13" />
@@ -108,6 +107,11 @@
         <mark key="[" line="26" column="12" />
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
@@ -211,10 +215,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhZGp1c3RtZW50LmFkanVzdG1lbnQuR2V0Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBCdWcgZml4IGZvciBJbmhlcml0RW5hYmxlZEZyb20uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -223,31 +227,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhZGp1c3RtZW50LmFkanVzdG1lbnQuR2V0Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBCdWcgZml4IGZvciBJbmhlcml0RW5hYmxlZEZyb20uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWFhYTCIsICJTb2RhIiwgIiIsICIiLCAiIiwgIlhYWFhMIiwgInZhcmlhYmxlIiwgIiIsICIxMi4wMCIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
+        <text encoding="base64">CQkJZi5TZXRJbnRBdHRyaWJ1dGVGb3JVbml0KCZtb2RlbF9tZXJjaGFudC5TcXVhcmVFbmFibGVkLCBhdHRyLkdldEludFZhbHVlKCksIG11bHRpcGFzcy5Vbml0VG9rZW4oYXR0ci5HZXRVbml0VG9rZW4oKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWFhMIiwgIlNvZGEiLCAiIiwgIiIsICIiLCAiWFhYTCIsICJ2YXJpYWJsZSIsICIiLCAiMTEuMDAiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiJ9fSwK</text>
+        <text encoding="base64">CQlmb3IgXywgYXR0ciA6PSByYW5nZSBmcm9tLkdldEF0dHJpYnV0ZXNBbnlVbml0KG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YWEwiLCAiU29kYSIsICIiLCAiIiwgIiIsICJYWEwiLCAidmFyaWFibGUiLCAiIiwgIjEwLjAwIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIifX0sCg==</text>
+        <text encoding="base64">CQlmLlJlbW92ZUF0dHJpYnV0ZXNXaXRoVG9rZW5zKG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5YTCIsICJTb2RhIiwgIiIsICIiLCAiIiwgIlhMIiwgInZhcmlhYmxlIiwgIiIsICI5LjAwIiwgIlkiLCAiIiwgIiIsICIiLCAiIiwgIiIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIifX0sCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5MYXJnZSIsICJTb2RhIiwgIiIsICIiLCAiIiwgImxhcmdlIiwgInZhcmlhYmxlIiwgIiIsICIxNS4wMCIsICJZIiwgIiIsICIiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
+        <text encoding="base64">CQkJZi5TZXRJbnRBdHRyaWJ1dGVGb3JVbml0KCZtb2RlbF9tZXJjaGFudC5TcXVhcmVFbmFibGVkLCBhdHRyLkdldEludFZhbHVlKCksIG11bHRpcGFzcy5Vbml0VG9rZW4oYXR0ci5HZXRVbml0VG9rZW4oKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5NZWRpdW0iLCAiU29kYSIsICIiLCAiIiwgIiIsICJtZWRpdW0iLCAidmFyaWFibGUiLCAiIiwgIjE0LjAwIiwgIlkiLCAiIiwgIjUiLCAiIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
+        <text encoding="base64">CQlmb3IgXywgYXR0ciA6PSByYW5nZSBmLkdldEF0dHJpYnV0ZXNBbnlVbml0KG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQl7Q2VsbHM6IFtdc3RyaW5neyIjVG9rZW5TbWFsbCIsICJTb2RhIiwgIiIsICIiLCAiIiwgInNtYWxsIiwgInZhcmlhYmxlIiwgIiIsICIiLCAiWSIsICIiLCAiIiwgIiIsICIiLCAiIiwgIlkiLCAiIiwgIiIsICIiLCAiIn19LAo=</text>
+        <text encoding="base64">CQlmLlJlbW92ZUF0dHJpYnV0ZXNXaXRoVG9rZW5zKG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
