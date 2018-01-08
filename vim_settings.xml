@@ -10,6 +10,7 @@
         <mark key="]" line="294" column="0" />
         <mark key="." line="294" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/onetime/migrate_current_prices.go" timestamp="1515442040288" />
       <file name="$USER_HOME$/Development/go/src/square/up/client/itemsclient/module.go" timestamp="1515178350447" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/db.go" timestamp="1515118170941">
         <mark key="[" line="11" column="15" />
@@ -19,6 +20,12 @@
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/model/game_info.go" timestamp="1515441428990">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="26" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/till/module.go" timestamp="1515116779726">
         <mark key="[" line="18" column="37" />
@@ -44,16 +51,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1515176775918">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/export.go" timestamp="1515186124330" />
       <file name="/Dummy.txt" timestamp="1515432487587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1515170233194" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/config/gcp.go" timestamp="1515441741289">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/config.go" timestamp="1515118200735">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -89,6 +97,12 @@
         <mark key="^" line="611" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/pub/module.go" timestamp="1515441849901">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/csv_import_test_cases_test.go" timestamp="1515430626038">
         <mark key="[" line="1244" column="10" />
       </file>
@@ -130,6 +144,7 @@
         <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/object_references.go" timestamp="1515439840207" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/vendor/go.uber.org/zap/logger.go" timestamp="1515442080645" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515115032336">
         <mark key="[" line="27" column="64" />
         <mark key="]" line="24" column="19" />
@@ -215,7 +230,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCdWcgZml4IGZvciBJbmhlcml0RW5hYmxlZEZyb20uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -227,31 +242,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBCdWcgZml4IGZvciBJbmhlcml0RW5hYmxlZEZyb20uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZi5TZXRJbnRBdHRyaWJ1dGVGb3JVbml0KCZtb2RlbF9tZXJjaGFudC5TcXVhcmVFbmFibGVkLCBhdHRyLkdldEludFZhbHVlKCksIG11bHRpcGFzcy5Vbml0VG9rZW4oYXR0ci5HZXRVbml0VG9rZW4oKSkpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmb3IgXywgYXR0ciA6PSByYW5nZSBmcm9tLkdldEF0dHJpYnV0ZXNBbnlVbml0KG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pIHsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmLlJlbW92ZUF0dHJpYnV0ZXNXaXRoVG9rZW5zKG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CWp3dENvbmZpZywgZXJyIDo9IGdvb2dsZS5KV1RDb25maWdGcm9tSlNPTihbXWJ5dGUoY3JlZGVudGlhbEpTT04pLCBwdWJzdWIuU2NvcGVQdWJTdWIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZi5TZXRJbnRBdHRyaWJ1dGVGb3JVbml0KCZtb2RlbF9tZXJjaGFudC5TcXVhcmVFbmFibGVkLCBhdHRyLkdldEludFZhbHVlKCksIG11bHRpcGFzcy5Vbml0VG9rZW4oYXR0ci5HZXRVbml0VG9rZW4oKSkpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgXywgYXR0ciA6PSByYW5nZSBmLkdldEF0dHJpYnV0ZXNBbnlVbml0KG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pIHsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmLlJlbW92ZUF0dHJpYnV0ZXNXaXRoVG9rZW5zKG1vZGVsX21lcmNoYW50LlNxdWFyZUVuYWJsZWQuVG9rZW4pCg==</text>
+        <text encoding="base64">CWlmIGNyZWRlbnRpYWxKU09OID09ICIiIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8fHx8fCBtZXJnZWQgY29tbW9uIGFuY2VzdG9ycwo=</text>
+        <text encoding="base64">ZGQJY3JlZGVudGlhbEpTT04gOj0gb3MuR2V0ZW52KCJHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
