@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1515381077778">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1515428237499">
         <mark key="[" line="933" column="68" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import_test.go" timestamp="1515172441880" />
