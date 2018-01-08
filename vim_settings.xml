@@ -50,7 +50,7 @@
         <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/export.go" timestamp="1515186124330" />
-      <file name="/Dummy.txt" timestamp="1515380224860">
+      <file name="/Dummy.txt" timestamp="1515432487587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1515170233194" />
@@ -108,11 +108,7 @@
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159">
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -129,6 +125,9 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-rpc-acl.json" timestamp="1515432610422">
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/ke-test-gcp/main.go" timestamp="1515115032336">
         <mark key="[" line="27" column="64" />
