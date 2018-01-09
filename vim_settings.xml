@@ -119,11 +119,11 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/Java/HelloWorld/src/Main.java" timestamp="1515461739017">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/Java/HelloWorld/src/Main.java" timestamp="1515463826048">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/config/gcp.go" timestamp="1515441741289">
         <mark key="[" line="28" column="50" />
@@ -221,7 +221,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoIndvcmxkIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>in</text>
@@ -233,31 +233,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoIndvcmxkIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoImhlbGxvIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJWRcdCVkXHQlZFx0JWRcdCVkXHQlZFxuIiwgaSwgaiwgaSZqLCBpfGosIGleaiwgaSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChpbnQgaiA6IHEpIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgOiBwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJWRcdCVkXHQlZFx0JWRcdCVkXHQlZFxuIiwgaSwgaiwgaSZqLCBpfGosIGleaiwgaSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUFx0UVx0QU5EXHRPUlx0WE9SXHROT1RcdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgZm9yIChpbnQgaiA6IHEpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludFtdIHEgPSB7MCwgMX07Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgOiBwKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludFtdIHAgPSB7MCwgMX07Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUFx0UVx0QU5EXHRPUlx0WE9SXHROT1RcdCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgOiBwKSB7CiAgICAgIGZvciAoaW50IGogOiBxKSB7Cg==</text>
+        <text encoding="base64">ICAgIGludFtdIHEgPSB7MCwgMX07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
