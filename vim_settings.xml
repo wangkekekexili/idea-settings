@@ -5,6 +5,11 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots.go" timestamp="1515503123849" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_publish.go" timestamp="1515508360377" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1515531946852">
+        <mark key="[" line="731" column="53" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/onetime/migrate_current_prices.go" timestamp="1515442040288" />
       <file name="/a.dummy" timestamp="1515508116981">
         <mark key="[" line="0" column="0" />
@@ -16,6 +21,7 @@
         <mark key="." line="957" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse_test.go" timestamp="1515161225115" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/api/module.go" timestamp="1515529347792" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service.go" timestamp="1515465348931" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1515518533899" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_walmart.go" timestamp="1515119413240">
@@ -37,9 +43,20 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/api/merchant_catalog_connect_v2_test.go" timestamp="1515532230407">
+        <mark key="[" line="1321" column="31" />
+        <mark key="]" line="1321" column="10" />
+        <mark key="." line="1321" column="10" />
+        <mark key="^" line="1321" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1515525311276" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159" />
+      <file name="$USER_HOME$/Development/go/src/square/up/xp/fakes/merchant_catalog.go" timestamp="1515532334287">
+        <mark key="[" line="703" column="0" />
+        <mark key="]" line="703" column="0" />
+        <mark key="." line="703" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -63,6 +80,12 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/protos/squareup/inventory/v3/api.pb.go" timestamp="1515508214616" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_queries.go" timestamp="1515507247919" />
+      <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/model/game_info.go" timestamp="1515441428990">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="26" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/till/module.go" timestamp="1515116779726">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="0" />
@@ -76,12 +99,18 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/export.go" timestamp="1515515172107" />
-      <file name="/Dummy.txt" timestamp="1515451034994">
+      <file name="/Dummy.txt" timestamp="1515529462349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/bill_adjustments.go" timestamp="1515472258462" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_queries_test.go" timestamp="1515477071612" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_average_computation.go" timestamp="1515508109611" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import_test.go" timestamp="1515170378264">
+        <mark key="[" line="2471" column="168" />
+        <mark key="]" line="2490" column="44" />
+        <mark key="^" line="2490" column="44" />
+        <mark key="." line="2490" column="44" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1515504519737" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1515178238829" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1515176800098" />
@@ -185,7 +214,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXQsIGVyciA6PSB0aW1lLlBhcnNlKHRpbWUuUkZDMzMzOSwgcmZjMzMzOU1pbGxpcywgdGltZXN0YW1wKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -197,31 +226,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXQsIGVyciA6PSB0aW1lLlBhcnNlKHRpbWUuUkZDMzMzOSwgcmZjMzMzOU1pbGxpcywgdGltZXN0YW1wKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGVyciwgcmVzcC5PYmplY3RzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3AuT2JqZWN0c1s1MDBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
+        <text encoding="base64">CQkJYXBwZW5kKHRheGVzLCBpdGVtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewo=</text>
+        <text encoding="base64">CXJldHVybiBhcHBlbmQodGF4ZXMsIGl0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWp3dENvbmZpZywgZXJyIDo9IGdvb2dsZS5KV1RDb25maWdGcm9tSlNPTihbXWJ5dGUoY3JlZGVudGlhbEpTT04pLCBwdWJzdWIuU2NvcGVQdWJTdWIpCg==</text>
+        <text encoding="base64">CWNyZWF0ZUl0ZW1XaXRoVGF4KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIGNyZWRlbnRpYWxKU09OID09ICIiIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
