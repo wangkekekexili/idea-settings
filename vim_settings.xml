@@ -17,7 +17,7 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse_test.go" timestamp="1515161225115" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service.go" timestamp="1515465348931" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1515465659832" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1515518533899" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_walmart.go" timestamp="1515119413240">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -32,7 +32,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1515504861394" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1515518548162" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
