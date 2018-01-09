@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots.go" timestamp="1515474778698" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots.go" timestamp="1515503123849" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/onetime/migrate_current_prices.go" timestamp="1515442040288" />
+      <file name="/a.dummy" timestamp="1515504476633">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/client/itemsclient/module.go" timestamp="1515178350447" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse_test.go" timestamp="1515161225115" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/billevent/job_service.go" timestamp="1515465348931" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/job_service.go" timestamp="1515465659832" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_cleanup.go" timestamp="1515470113696" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_cleanup.go" timestamp="1515504708722" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1515380266942" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1515176775918">
         <mark key="[" line="26" column="8" />
@@ -17,7 +20,7 @@
         <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/import.go" timestamp="1515170233194" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1515475110882" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_computation.go" timestamp="1515504861394" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/es2/event/import_metadata_event.go" timestamp="1515172565461" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/facade/catalog_object_facade_test.go" timestamp="1515431352159" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/feeds/publisher/module.go" timestamp="1515465269645" />
@@ -35,6 +38,7 @@
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/db.go" timestamp="1515118170941">
         <mark key="[" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_queries.go" timestamp="1515504464372" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/export.go" timestamp="1515182541538" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_family.go" timestamp="1515472582385" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/export.go" timestamp="1515186124330" />
@@ -42,12 +46,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/bill_adjustments.go" timestamp="1515472258462" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_average_computation.go" timestamp="1515475204464" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_queries_test.go" timestamp="1515477071612" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots_average_computation.go" timestamp="1515504589077" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1515504519737" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/import.go" timestamp="1515178238829" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/consumer.go" timestamp="1515176800098" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1515451297490" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/jobs/costlots/module.go" timestamp="1515451455459" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_computation.go" timestamp="1515474782193" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_adjustment_lots_computation.go" timestamp="1515503279929" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/purchase_orders.go" timestamp="1515451115107" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-rpc-acl.json" timestamp="1515432610422">
         <mark key="[" line="3" column="32" />
