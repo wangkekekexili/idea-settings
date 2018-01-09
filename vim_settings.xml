@@ -3,15 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1515532561300">
-        <mark key="[" line="740" column="0" />
-        <mark key="]" line="741" column="101" />
-        <mark key="." line="741" column="101" />
-        <mark key="^" line="741" column="101" />
-      </file>
       <file name="/a.dummy" timestamp="1515508116981">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/client/itemsclient/module.go" timestamp="1515534233897" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/conversions/merchant_catalog_conversions.go" timestamp="1515515596741">
         <mark key="[" line="957" column="0" />
         <mark key="]" line="957" column="0" />
@@ -22,6 +17,7 @@
         <mark key="]" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1515534347871" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1515176775918">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="8" />
