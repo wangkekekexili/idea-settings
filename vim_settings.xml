@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-rpc-acl.json" timestamp="1515432610422">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515592760553" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515593737173" />
     </filemarks>
     <jumps>
       <jump line="111" column="8" filename="$USER_HOME$/Development/go/src/square/up/items/v3_command_test/fix_page_tile_v3_command_test.go" />
