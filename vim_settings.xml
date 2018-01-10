@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/reporter_api.go" timestamp="1515596612995" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1515522830627">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
@@ -20,6 +21,7 @@
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/db.go" timestamp="1515118170941">
         <mark key="[" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1515597243687" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/model/game_info.go" timestamp="1515441428990">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -85,7 +87,7 @@
         <mark key="]" line="703" column="0" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515592750227" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515595330343" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -94,7 +96,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-rpc-acl.json" timestamp="1515432610422">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515593737173" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515600467330">
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="111" column="8" filename="$USER_HOME$/Development/go/src/square/up/items/v3_command_test/fix_page_tile_v3_command_test.go" />
@@ -174,7 +180,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
+        <text encoding="base64">CQkJVmVyc2lvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -186,31 +192,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
+        <text encoding="base64">CQkJVmVyc2lvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGVyciwgcmVzcC5PYmplY3RzKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3AuT2JqZWN0c1s1MDBdKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGVyciwgcmVzcC5PYmplY3RzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYXBwZW5kKHRheGVzLCBpdGVtKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3AuT2JqZWN0c1s1MDBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBhcHBlbmQodGF4ZXMsIGl0ZW0pCg==</text>
+        <text encoding="base64">CQkJYXBwZW5kKHRheGVzLCBpdGVtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNyZWF0ZUl0ZW1XaXRoVGF4KCkK</text>
+        <text encoding="base64">CXJldHVybiBhcHBlbmQodGF4ZXMsIGl0ZW0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNyZWF0ZUl0ZW1XaXRoVGF4KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
