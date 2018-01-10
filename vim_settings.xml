@@ -18,13 +18,13 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/merchant/api.proto" timestamp="1515601508962" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/db.go" timestamp="1515604764117" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/historical_inventory_actions.go" timestamp="1515603813005" />
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515602569562" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515614451628" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/historical_inventory.go" timestamp="1515607626199">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515604202646">
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515614709982">
         <mark key="[" line="349" column="0" />
         <mark key="]" line="349" column="0" />
         <mark key="." line="349" column="0" />
