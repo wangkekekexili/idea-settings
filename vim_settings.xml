@@ -6,18 +6,18 @@
       <file name="/a.dummy" timestamp="1515508116981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/client/itemsclient/module.go" timestamp="1515534233897" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/conversions/merchant_catalog_conversions.go" timestamp="1515515596741">
         <mark key="[" line="957" column="0" />
         <mark key="]" line="957" column="0" />
         <mark key="." line="957" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/merchant_api.go" timestamp="1515535806315" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_walmart.go" timestamp="1515119413240">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1515534347871" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1515534997224" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/feeds/consumer/db.go" timestamp="1515176775918">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="8" />
@@ -44,6 +44,7 @@
         <mark key="]" line="24" column="12" />
         <mark key="." line="24" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/merchant.go" timestamp="1515535796806" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/adjustments.go" timestamp="1515522830627">
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
@@ -87,6 +88,7 @@
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515535690161" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/config/inventory2-rpc-acl.json" timestamp="1515432610422">
         <mark key="[" line="3" column="32" />
       </file>
