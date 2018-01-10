@@ -37,7 +37,6 @@
         <mark key="]" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/constraints.go" timestamp="1515591033695" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/db/module.go" timestamp="1515119313748">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="29" column="0" />
@@ -86,6 +85,7 @@
         <mark key="]" line="703" column="0" />
         <mark key="." line="703" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api.go" timestamp="1515591698839" />
       <file name="$USER_HOME$/Development/go/src/github.com/wangkekekexili/gops/server/handler_gamestop.go" timestamp="1515119382993">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
