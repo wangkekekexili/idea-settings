@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1515605058725" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/reporter_api.go" timestamp="1515596612995" />
+      <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/config/invreporter-common.yaml" timestamp="1515613342722" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/attrdefs/attribute_definition.go" timestamp="1515601701613" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/snapshots.go" timestamp="1515597243687" />
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_converter.go" timestamp="1515603394638" />
