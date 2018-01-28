@@ -25,11 +25,10 @@
         <mark key="]" line="349" column="0" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/flutter/hello/lib/main.dart" timestamp="1517159776132">
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Development/flutter/hello/lib/main.dart" timestamp="1517172311604">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -104,16 +103,18 @@
       <jump line="27" column="96" filename="$USER_HOME$/Development/go/src/square/up/inventory2/v3/legacy/legacy_internal_inventory_actions.go" />
       <jump line="28" column="12" filename="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2_conversions.go" />
       <jump line="37" column="48" filename="$USER_HOME$/Development/go/src/square/up/retail/invreporter/db/attribute_definition.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/flutter/hello/lib/main.dart" />
+      <jump line="17" column="6" filename="$USER_HOME$/Development/flutter/hello/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Flutter</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -122,31 +123,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlPY2N1cgo=</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJVmVyc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiBuZXcgVGV4dCgiaGVsbG8gd29ybGQgc2Vjb25kIHRpbWUiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5DYXRhbG9nT2JqZWN0VG9rZW5bOjEwXSkK</text>
+        <text encoding="base64">ICAgICAgICBhcHBCYXI6IG5ldyBBcHBCYXIoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGVyciwgcmVzcC5PYmplY3RzKQo=</text>
+        <text encoding="base64">ICAgICAgaG9tZTogIG5ldyBTY2FmZm9sZCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3AuT2JqZWN0c1s1MDBdKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJYXBwZW5kKHRheGVzLCBpdGVtKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">YXBwQmFyOiBuZXcgQXBwQmFyKAogICAgICAgIC8vIEhlcmUgd2UgdGFrZSB0aGUgdmFsdWUgZnJvbSB0aGUgTXlIb21lUGFnZSBvYmplY3QgdGhhdCB3YXMgY3JlYXRlZCBieQogICAgICAgIC8vIHRoZSBBcHAuYnVpbGQgbWV0aG9kLCBhbmQgdXNlIGl0IHRvIHNldCBvdXIgYXBwYmFyIHRpdGxlLgogICAgICAgIHRpdGxlOiBuZXcgVGV4dCh3aWRnZXQudGl0bGUpLAogICAgICApLAogICAgICBib2R5OiBuZXcgQ2VudGVyKAogICAgICAgIC8vIENlbnRlciBpcyBhIGxheW91dCB3aWRnZXQuIEl0IHRha2VzIGEgc2luZ2xlIGNoaWxkIGFuZCBwb3NpdGlvbnMgaXQKICAgICAgICAvLyBpbiB0aGUgbWlkZGxlIG9mIHRoZSBwYXJlbnQuCiAgICAgICAgY2hpbGQ6IG5ldyBDb2x1bW4oCiAgICAgICAgICAvLyBDb2x1bW4gaXMgYWxzbyBsYXlvdXQgd2lkZ2V0LiBJdCB0YWtlcyBhIGxpc3Qgb2YgY2hpbGRyZW4gYW5kCiAgICAgICAgICAvLyBhcnJhbmdlcyB0aGVtIHZlcnRpY2FsbHkuIEJ5IGRlZmF1bHQsIGl0IHNpemVzIGl0c2VsZiB0byBmaXQgaXRzCiAgICAgICAgICAvLyBjaGlsZHJlbiBob3Jpem9udGFsbHksIGFuZCB0cmllcyB0byBiZSBhcyB0YWxsIGFzIGl0cyBwYXJlbnQuCiAgICAgICAgICAvLwogICAgICAgICAgLy8gSW52b2tlICJkZWJ1ZyBwYWludCIgKHByZXNzICJwIiBpbiB0aGUgY29uc29sZSB3aGVyZSB5b3UgcmFuCiAgICAgICAgICAvLyAiZmx1dHRlciBydW4iLCBvciBzZWxlY3QgIlRvZ2dsZSBEZWJ1ZyBQYWludCIgZnJvbSB0aGUgRmx1dHRlciB0b29sCiAgICAgICAgICAvLyB3aW5kb3cgaW4gSW50ZWxsaUopIHRvIHNlZSB0aGUgd2lyZWZyYW1lIGZvciBlYWNoIHdpZGdldC4KICAgICAgICAgIC8vCiAgICAgICAgICAvLyBDb2x1bW4gaGFzIHZhcmlvdXMgcHJvcGVydGllcyB0byBjb250cm9sIGhvdyBpdCBzaXplcyBpdHNlbGYgYW5kCiAgICAgICAgICAvLyBob3cgaXQgcG9zaXRpb25zIGl0cyBjaGlsZHJlbi4gSGVyZSB3ZSB1c2UgbWFpbkF4aXNBbGlnbm1lbnQgdG8KICAgICAgICAgIC8vIGNlbnRlciB0aGUgY2hpbGRyZW4gdmVydGljYWxseTsgdGhlIG1haW4gYXhpcyBoZXJlIGlzIHRoZSB2ZXJ0aWNhbAogICAgICAgICAgLy8gYXhpcyBiZWNhdXNlIENvbHVtbnMgYXJlIHZlcnRpY2FsICh0aGUgY3Jvc3MgYXhpcyB3b3VsZCBiZQogICAgICAgICAgLy8gaG9yaXpvbnRhbCkuCiAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuY2VudGVyLAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBuZXcgVGV4dCgKICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICckX2NvdW50ZXInLAogICAgICAgICAgICAgIHN0eWxlOiBUaGVtZS5vZihjb250ZXh0KS50ZXh0VGhlbWUuZGlzcGxheTEsCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICksCiAgICAgICksCiAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uOiBuZXcgRmxvYXRpbmdBY3Rpb25CdXR0b24oCiAgICAgICAgb25QcmVzc2VkOiBfaW5jcmVtZW50Q291bnRlciwKICAgICAgICB0b29sdGlwOiAnSW5jcmVtZW50JywKICAgICAgICBjaGlsZDogbmV3IEljb24oSWNvbnMuYWRkKSwKICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCiAgICApOwogIH0KfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBhcHBlbmQodGF4ZXMsIGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNyZWF0ZUl0ZW1XaXRoVGF4KCkK</text>
+        <text encoding="base64">ICAgIC8vIHRoYW4gaGF2aW5nIHRvIGluZGl2aWR1YWxseSBjaGFuZ2UgaW5zdGFuY2VzIG9mIHdpZGdldHMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
