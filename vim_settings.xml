@@ -25,11 +25,11 @@
         <mark key="]" line="349" column="0" />
         <mark key="." line="349" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/flutter/hello/lib/main.dart" timestamp="1517183321779">
-        <mark key="[" line="45" column="3" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Development/flutter/hello/lib/main.dart" timestamp="1517187908167">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+        <mark key="^" line="36" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -112,7 +112,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmNsYXNzIENoYXRTY3JlZW4gZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7fQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="-" type="4">
         <text>new</text>
@@ -124,31 +124,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNsYXNzIENoYXRTY3JlZW4gZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7fQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgSWNvblRoZW1lKGRhdGE6IG51bGwsIGNoaWxkOiBudWxsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQub3duZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXBwQmFyOiBuZXcgQXBwQmFyKHRpdGxlOiBuZXcgVGV4dCgidGhpcyBpcyBwcmV0dHkgYW1hemluZyIpKSwK</text>
+        <text encoding="base64">CmNsYXNzIENoYXRTY3JlZW4gZXh0ZW5kcyBTdGF0ZWZ1bFdpZGdldCB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgYXBwQmFyOiBuZXcgQXBwQmFyKHRpdGxlOiBuZXcgVGV4dCgidGhpcyBpcyBwcmV0dHkgYW1hemluZyIpKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
