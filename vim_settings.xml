@@ -29,11 +29,11 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dart/playground/bin/main.dart" timestamp="1518572360383">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
+      <file name="$USER_HOME$/Development/dart/playground/bin/main.dart" timestamp="1518574642340">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/retail/invreporter/models/snapshot_api_persist_snapshot_rpc.go" timestamp="1515615462646">
         <mark key="[" line="349" column="0" />
@@ -142,7 +142,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGF0ZXMuZm9yRWFjaCgoaywgdikgPT4gcHJpbnQoIiRrOiAkdiIpKTsK</text>
+        <text encoding="base64">ICBwcmludCh1cmkucXVlcnlQYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -154,31 +154,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0ZXMuZm9yRWFjaCgoaywgdikgPT4gcHJpbnQoIiRrOiAkdiIpKTsK</text>
+        <text encoding="base64">ICBwcmludCh1cmkucXVlcnlQYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0ZXNbIkdlb3JnaWEiXSA9ICJBdGxhbnRhIjsK</text>
+        <text encoding="base64">ICAgICAgVXJpLnBhcnNlKFVyaS5lbmNvZGVGdWxsKCJodHRwOi8vZXhhbXBsZS5vcmcvYXBpP2Zvbz1zb21lIG1lc3NhZ2UiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgc3RhdGVzID0gbmV3IE1hcDxTdHJpbmcsIFN0cmluZz4oKTsK</text>
+        <text encoding="base64">ICB2YXIgdXJpID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0ZXMucHV0SWZBYnNlbnQoa2V5LCBpZkFic2VudCkK</text>
+        <text encoding="base64">ICBwcmludCh1cmkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0ZXMua2V5cy5hZG55KGYpCg==</text>
+        <text encoding="base64">ICBVcmkucGFyc2UodXJpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gcHJpbnQoImhlbG8gd29ybGQiKTsK</text>
+        <text encoding="base64">ICBwcmludChuYW1lcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludChzdGF0ZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICBuYW1lcyA9IG5hbWVzLm1hcCgobmFtZSkgPT4gbmFtZS50b1VwcGVyQ2FzZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludChzdGF0ZXMuY29udGFpbnNLZXkoZ2l0aCkpCg==</text>
+        <text encoding="base64">ICB2YXIgbmFtZXMgPSBbImtlIiwgInlpeWFuZyJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludChzdGF0ZXNbIkciXSk7Cg==</text>
+        <text encoding="base64">ICBzdGF0ZXMuZm9yRWFjaCgoaywgdikgPT4gcHJpbnQoIiRrOiAkdiIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>4,15d</text>
