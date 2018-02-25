@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1519574266190">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/Java/ImageSearch/BUILD" timestamp="1517879284442">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="13" />
@@ -29,11 +32,11 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dart/playground/bin/main.dart" timestamp="1518795203866">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+      <file name="$USER_HOME$/Development/dart/playground/bin/main.dart" timestamp="1519574756185">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Development/dart/playground/lib/playground.dart" timestamp="1518876226868">
         <mark key="[" line="2" column="1" />
@@ -65,6 +68,9 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dart/playground/bin/cat.dart" timestamp="1519574480793">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mockProjectViewFile" timestamp="1517878968823">
         <mark key="[" line="0" column="0" />
@@ -150,10 +156,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmbGFnc1w+</text>
@@ -162,31 +168,31 @@
         <text>re</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludChwMSA9PSBwMik7Cg==</text>
+        <text encoding="base64">ICBwcmludCgia2Ugd2FuZyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludChwMi5oYXNoQ29kZSk7Cg==</text>
+        <text encoding="base64">ICBwcmludFdpdGhEZWxheSgiaGVsbG8gd29ybGQiLCAyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludChwMS5oYXNoQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgcDIgPSBuZXcgUGVyc29uKCJLRSIsICJXQU5HIik7Cg==</text>
+        <text encoding="base64">ICBwcmludChwMSA9PSBwMik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgcDEgPSBuZXcgUGVyc29uKCJrZSIsICJ3YW5nIik7Cg==</text>
+        <text encoding="base64">ICBwcmludChwMi5oYXNoQ29kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludCh1cmkucXVlcnlQYXJhbWV0ZXJzKTsK</text>
+        <text encoding="base64">ICBwcmludChwMS5oYXNoQ29kZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVXJpLnBhcnNlKFVyaS5lbmNvZGVGdWxsKCJodHRwOi8vZXhhbXBsZS5vcmcvYXBpP2Zvbz1zb21lIG1lc3NhZ2UiKSk7Cg==</text>
+        <text encoding="base64">ICB2YXIgcDIgPSBuZXcgUGVyc29uKCJLRSIsICJXQU5HIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgdXJpID0K</text>
+        <text encoding="base64">ICB2YXIgcDEgPSBuZXcgUGVyc29uKCJrZSIsICJ3YW5nIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4,15d</text>
