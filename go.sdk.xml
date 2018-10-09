@@ -4,6 +4,7 @@
       <set>
         <option value="$USER_HOME$/sdk/go1.9beta1" />
         <option value="$USER_HOME$/sdk/go1.9rc2" />
+        <option value="/usr/local/Cellar/go/1.10.3/libexec" />
       </set>
     </sdk-path>
   </component>
