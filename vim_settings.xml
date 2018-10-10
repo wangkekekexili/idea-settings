@@ -33,10 +33,10 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539186782587">
-        <mark key="[" line="94" column="24" />
-        <mark key="]" line="94" column="25" />
-        <mark key="." line="94" column="25" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539188723657">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="95" column="25" />
+        <mark key="." line="95" column="25" />
         <mark key="^" line="91" column="51" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
