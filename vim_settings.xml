@@ -27,6 +27,7 @@
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/fake_client.go" timestamp="1539195922979" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/elasticsearch/elasticsearch.go" timestamp="1539201496796" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/search.go" timestamp="1539199166545" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539186432578">
         <mark key="[" line="95" column="7" />
