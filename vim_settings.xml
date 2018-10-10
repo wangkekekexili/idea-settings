@@ -3,16 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118221549" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539117148144">
         <mark key="[" line="52" column="26" />
         <mark key="]" line="51" column="54" />
         <mark key="^" line="51" column="54" />
         <mark key="." line="51" column="54" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
+      <file name="/a.dummy" timestamp="1539178745990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/gdpr-delete/gdpr_delete.go" timestamp="1539119106488">
+        <mark key="[" line="93" column="147" />
+        <mark key="]" line="93" column="147" />
+        <mark key="." line="93" column="147" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
+        <mark key="[" line="1321" column="0" />
+        <mark key="]" line="1321" column="0" />
+        <mark key="." line="1321" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539178742784" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJdGltZS5TbGVlcCgxMCAqIHRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdGltZS5TbGVlcCgxMCAqIHRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>)
+			request</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
