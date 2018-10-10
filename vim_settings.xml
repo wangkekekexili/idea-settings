@@ -13,8 +13,14 @@
         <mark key="[" line="396" column="42" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustments.go" timestamp="1539179708541" />
-      <file name="/a.dummy" timestamp="1539178745990">
+      <file name="/a.dummy" timestamp="1539187813734">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1539187855118">
+        <mark key="[" line="2276" column="36" />
+        <mark key="]" line="2276" column="36" />
+        <mark key="^" line="2274" column="25" />
+        <mark key="." line="2276" column="36" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
@@ -60,7 +66,7 @@
         <text encoding="base64">CXZhciBnb3RFdmVudCBzdG9ja0FjdGlvbkNvbm5lY3RJbXBvcnRFdmVudAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>connectImportSourceItemsImport</text>
+        <text>string</text>
       </register>
       <register name="2" type="4">
         <text>merchantToken, nil, []*inventory_v3.Count{
@@ -94,7 +100,7 @@
         <text encoding="base64">CQkJdmFyaWF0aW9uVG9rZW4gPSBwdHJ1dGlsLlN0cih0b2tlbikK</text>
       </register>
       <register name="-" type="4">
-        <text>connectImportSourceItemsImport</text>
+        <text>string</text>
       </register>
     </registers>
     <search>
