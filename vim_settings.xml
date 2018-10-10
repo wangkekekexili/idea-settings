@@ -52,13 +52,9 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
+      <file name="/menu_category.go" timestamp="1539193094220" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/legacy_adjustments.go" timestamp="1539185135822">
         <mark key="[" line="240" column="114" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
-        <mark key="[" line="1321" column="0" />
-        <mark key="]" line="1321" column="0" />
-        <mark key="." line="1321" column="0" />
       </file>
     </filemarks>
     <jumps />
