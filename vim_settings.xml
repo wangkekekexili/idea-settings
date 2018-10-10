@@ -3,50 +3,98 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1539185472470">
+        <mark key="[" line="1526" column="0" />
+        <mark key="]" line="1526" column="0" />
+        <mark key="^" line="1525" column="112" />
+        <mark key="." line="1526" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/cog_actions.go" timestamp="1539180503875">
         <mark key="[" line="396" column="42" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustments.go" timestamp="1539179708541" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
       <file name="/a.dummy" timestamp="1539178745990">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539186432578">
+        <mark key="[" line="95" column="7" />
+        <mark key="]" line="95" column="7" />
+        <mark key="." line="95" column="7" />
+        <mark key="^" line="94" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539186782587">
+        <mark key="[" line="94" column="24" />
+        <mark key="]" line="94" column="25" />
+        <mark key="." line="94" column="25" />
+        <mark key="^" line="91" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/flags/module.go" timestamp="1539180428610" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1539180713848" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1539180837642" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/gdpr-delete/gdpr_delete.go" timestamp="1539119106488">
-        <mark key="[" line="93" column="147" />
-        <mark key="]" line="93" column="147" />
-        <mark key="." line="93" column="147" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1539185399225">
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="630" column="0" />
+        <mark key="^" line="629" column="102" />
+        <mark key="." line="630" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/legacy_adjustments.go" timestamp="1539185135822">
+        <mark key="[" line="240" column="114" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
         <mark key="[" line="1321" column="0" />
         <mark key="]" line="1321" column="0" />
         <mark key="." line="1321" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539180719213" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdGltZS5TbGVlcCgxMCAqIHRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+        <text encoding="base64">CXZhciBnb3RFdmVudCBzdG9ja0FjdGlvbkNvbm5lY3RJbXBvcnRFdmVudAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdGltZS5TbGVlcCgxMCAqIHRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>connectImportSourceItemsImport</text>
       </register>
       <register name="2" type="4">
-        <text>)
-			request</text>
+        <text>merchantToken, nil, []*inventory_v3.Count{
+		builder.NewCountBuilder().
+			SetMerchantCatalogToken(productToken).
+			SetSqState(inventory_v3.State_IN_STOCK).
+			SetStateUnitToken(unitToken).
+			SetQuantity(quantity.NewQuantity(42, 100)).
+			Build(),
+	}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlWYXJpYXRpb25Ub2tlbjogcHJvZHVjdFRva2VuLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlRdWFudGl0eTogICAgICAgcXVhbnRpdHkuU3RyaW5nKHF1YW50aXR5Lk5ld1F1YW50aXR5KDQyLCAxMDApKSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlVbml0VG9rZW46ICAgICAgcHRydXRpbC5TdHIodW5pdFRva2VuKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlTdG9ja0FjdGlvbjogICAgc3RvY2tBY3Rpb25SZWNvdW50LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CW51bVZhcmlhdGlvbiA6PSBsZW4odmFyaWF0aW9uVG9rZW5TZXQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhciB2YXJpYXRpb25Ub2tlbiAqc3RyaW5nCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJdmFyaWF0aW9uVG9rZW4gPSBwdHJ1dGlsLlN0cih0b2tlbikK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>connectImportSourceItemsImport</text>
       </register>
     </registers>
     <search>
@@ -54,6 +102,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

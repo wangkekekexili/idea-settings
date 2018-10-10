@@ -8,5 +8,6 @@
     <option name="renameSearchInCommentsForFunction" value="false" />
     <option name="renameSearchInCommentsForType" value="false" />
     <option name="renameSearchInCommentsForVariable" value="false" />
+    <option name="suggestParametersNames" value="false" />
   </component>
 </application>
