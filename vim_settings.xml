@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539117148144">
         <mark key="[" line="52" column="26" />
@@ -10,6 +11,7 @@
         <mark key="^" line="51" column="54" />
         <mark key="." line="51" column="54" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustments.go" timestamp="1539179708541" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
       <file name="/a.dummy" timestamp="1539178745990">
         <mark key="[" line="0" column="0" />
