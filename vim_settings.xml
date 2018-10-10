@@ -5,29 +5,33 @@
     <filemarks>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539117148144">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="51" column="54" />
-        <mark key="^" line="51" column="54" />
-        <mark key="." line="51" column="54" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/cog_actions.go" timestamp="1539180503875">
+        <mark key="[" line="396" column="42" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustments.go" timestamp="1539179708541" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
       <file name="/a.dummy" timestamp="1539178745990">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/flags/module.go" timestamp="1539180428610" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1539180713848" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1539180837642" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/gdpr-delete/gdpr_delete.go" timestamp="1539119106488">
         <mark key="[" line="93" column="147" />
         <mark key="]" line="93" column="147" />
         <mark key="." line="93" column="147" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
         <mark key="[" line="1321" column="0" />
         <mark key="]" line="1321" column="0" />
         <mark key="." line="1321" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539178742784" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539180719213" />
     </filemarks>
     <jumps />
     <registers>
