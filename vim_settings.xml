@@ -3,40 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/cog_actions.go" timestamp="1539180503875">
-        <mark key="[" line="396" column="42" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustments.go" timestamp="1539179708541" />
-      <file name="/a.dummy" timestamp="1539187813734">
+      <file name="/a.dummy" timestamp="1539270823880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/elasticsearch_queue.go" timestamp="1539203925556" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/inventory_count_feed_queue.go" timestamp="1539204502457" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1539199293515" />
-      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/bulk.go" timestamp="1539206386539">
-        <mark key="[" line="248" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1539187855118">
-        <mark key="[" line="2276" column="36" />
-        <mark key="]" line="2276" column="36" />
-        <mark key="^" line="2274" column="25" />
-        <mark key="." line="2276" column="36" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/gdpr_delete.go" timestamp="1539119187705" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/commands/gdpr-delete/gdpr_delete.go" timestamp="1539119106488">
-        <mark key="[" line="93" column="147" />
-        <mark key="]" line="93" column="147" />
-        <mark key="." line="93" column="147" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/search.go" timestamp="1539206161741">
         <mark key="[" line="400" column="0" />
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/fake_client.go" timestamp="1539195922979" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/elasticsearch/elasticsearch.go" timestamp="1539266805087" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1539270780015" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/querybuilder.go" timestamp="1539268867601" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/constants.go" timestamp="1539268801709">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="81" />
+        <mark key="." line="85" column="81" />
+        <mark key="^" line="85" column="81" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/search.go" timestamp="1539199166545" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger.go" timestamp="1539266002558">
         <mark key="[" line="100" column="43" />
@@ -44,82 +29,132 @@
         <mark key="^" line="100" column="98" />
         <mark key="." line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
-      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/bulk_processor.go" timestamp="1539206364067" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/items.proto" timestamp="1539191952356" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/stock_action_connect_import_logger_test.go" timestamp="1539188723657">
         <mark key="[" line="93" column="26" />
         <mark key="]" line="95" column="25" />
         <mark key="." line="95" column="25" />
         <mark key="^" line="91" column="51" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/module.go" timestamp="1539267118763" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/inventory_count_feed_runner.go" timestamp="1539204442643" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/flags/module.go" timestamp="1539180428610" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539204512288" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1539180713848" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1539180837642" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539267626749">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/module.go" timestamp="1539271866527">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/dbconnection/dbconnection.go" timestamp="1539202720939" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/items_feeds/feeds_module.go" timestamp="1539270252239">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1539185399225">
+        <mark key="[" line="630" column="0" />
+        <mark key="]" line="630" column="0" />
+        <mark key="^" line="629" column="102" />
+        <mark key="." line="630" column="0" />
+      </file>
       <file name="/menu_category.go" timestamp="1539193094220" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/elasticsearch_runner.go" timestamp="1539204818855" />
-      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/legacy_adjustments.go" timestamp="1539185135822">
-        <mark key="[" line="240" column="114" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/script/start_local_elasticsearch" timestamp="1539205143038" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/administrator/module.go" timestamp="1539204491474" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
         <mark key="[" line="1321" column="0" />
         <mark key="]" line="1321" column="0" />
         <mark key="." line="1321" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539266889455">
-        <mark key="[" line="180" column="44" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/merchant/internal.proto" timestamp="1539203860570" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/items_feeds/merchant_unit_update_feed.go" timestamp="1539270793795">
+        <mark key="[" line="57" column="52" />
+        <mark key="]" line="57" column="8" />
+        <mark key="^" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/exim/file/parse.go" timestamp="1539185472470">
+        <mark key="[" line="1526" column="0" />
+        <mark key="]" line="1526" column="0" />
+        <mark key="^" line="1525" column="112" />
+        <mark key="." line="1526" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/inventory_count_feed_queue.go" timestamp="1539204502457" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1539199293515" />
+      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/bulk.go" timestamp="1539206386539">
+        <mark key="[" line="248" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/delete_by_query.go" timestamp="1539269295005" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1539187855118">
+        <mark key="[" line="2276" column="36" />
+        <mark key="]" line="2276" column="36" />
+        <mark key="^" line="2274" column="25" />
+        <mark key="." line="2276" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/adjustment_update.go" timestamp="1539180786616" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/core_module.go" timestamp="1539180618651" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/fake_client.go" timestamp="1539271208855">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/commands/elasticsearch/elasticsearch.go" timestamp="1539266805087" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/adjustment/adjustment_service.go" timestamp="1539179700931" />
+      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/bulk_processor.go" timestamp="1539206364067" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/edit_adjustments_events.go" timestamp="1539118879240" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/protos/squareup/items/items.proto" timestamp="1539191952356" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/core/gdpr_delete.go" timestamp="1539119988834" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/inventory_count_feed_runner.go" timestamp="1539204442643" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/flags/module.go" timestamp="1539180428610" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539204512288" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1539180713848" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1539180837642" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539272682267">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="74" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
+      <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/dbconnection/dbconnection.go" timestamp="1539202720939" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/elasticsearch_runner.go" timestamp="1539269421206" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/script/start_local_elasticsearch" timestamp="1539272006518" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/administrator/module.go" timestamp="1539204491474" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539272148423">
+        <mark key="[" line="363" column="87" />
+        <mark key="]" line="363" column="87" />
+        <mark key="." line="363" column="87" />
+        <mark key="^" line="363" column="86" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0LkZhdGFsZigiY3JlYXRpbmcgY2xpZW50IGZhaWxlZCB3aXRoIGVycjogJXMiLCBlcnIuRXJyb3IoKSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0LkZhdGFsZigiY3JlYXRpbmcgY2xpZW50IGZhaWxlZCB3aXRoIGVycjogJXMiLCBlcnIuRXJyb3IoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNsaWVudC5jbGllbnQuVXBkYXRlQnlRdWVyeSgpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXJldHVybiB0cnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CWVsYXN0aWNzZWFyY2ggInNxdWFyZS91cC9pdGVtcy9zZXJ2ZXIvc2VhcmNoL2VsYXN0aWNzZWFyY2giCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZS5WYXJpYXRpb25Ub2tlbiA9IHB0cnV0aWwuU3RyKHRva2VuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgdG9rZW4gOj0gcmFuZ2UgdmFyaWF0aW9uVG9rZW5TZXQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIFRoaXMgZmluY2x1ZGUgc3RvY2sgY291bnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVVuaXRBdmFpbGFiaWxpdHk6IFVuaXRBdmFpbGFiaWxpdHl7fSwK</text>
+        <text encoding="base64">CWlmIHJlc3AuQmF0Y2hlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUNhdGVnb3J5VG9rZW46ICIiLAo=</text>
+        <text encoding="base64">CQlyZXR1cm4gdXRpbC5XcmFwRXJyb3JBbmRQcmVwZW5kTWVzc2FnZShlcnIsICJVcGRhdGVCeVF1ZXJ5IGdlbmVyaWMgZXJyb3IiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>adjs</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
