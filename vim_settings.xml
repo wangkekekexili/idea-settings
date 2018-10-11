@@ -53,11 +53,8 @@
         <mark key="^" line="2274" column="25" />
         <mark key="." line="2276" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539288881082">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="68" column="17" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539289494392">
+        <mark key="[" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/search.go" timestamp="1539206161741">
         <mark key="[" line="400" column="0" />
