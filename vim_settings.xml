@@ -11,6 +11,7 @@
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/querybuilder.go" timestamp="1539283255667" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/test_util.go" timestamp="1539273990396">
         <mark key="[" line="72" column="69" />
         <mark key="]" line="71" column="20" />
@@ -22,7 +23,7 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/constants.go" timestamp="1539281788063">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/constants.go" timestamp="1539284149295">
         <mark key="[" line="35" column="51" />
         <mark key="]" line="86" column="81" />
         <mark key="." line="86" column="81" />
@@ -89,7 +90,13 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539280393019">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539283718430">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539283694903">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
