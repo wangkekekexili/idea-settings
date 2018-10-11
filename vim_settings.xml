@@ -16,6 +16,13 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/db.go" timestamp="1539270780015" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/querybuilder.go" timestamp="1539268867601" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/test_util.go" timestamp="1539273990396">
+        <mark key="[" line="72" column="69" />
+        <mark key="]" line="71" column="20" />
+        <mark key="^" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/model.go" timestamp="1539273822714" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/constants.go" timestamp="1539268801709">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="81" />
@@ -102,11 +109,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539204512288" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/event/generate_labels_request_events.go" timestamp="1539180713848" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/db/cost_lots.go" timestamp="1539180837642" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539272682267">
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="74" column="18" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539274827711">
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="133" column="46" />
+        <mark key="^" line="133" column="46" />
+        <mark key="." line="133" column="46" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/get_feature_usage_actions.go" timestamp="1539180829235" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/dashboard/get_feature_usage.go" timestamp="1539180811415" />
@@ -124,37 +131,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQl0LkZhdGFsZigiY3JlYXRpbmcgY2xpZW50IGZhaWxlZCB3aXRoIGVycjogJXMiLCBlcnIuRXJyb3IoKSkK</text>
+        <text encoding="base64">CQlYWFhfdW5yZWNvZ25pemVkOiBuaWwsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl0LkZhdGFsZigiY3JlYXRpbmcgY2xpZW50IGZhaWxlZCB3aXRoIGVycjogJXMiLCBlcnIuRXJyb3IoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>nil</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CQkJCXQuRmF0YWxmKCJTZWFyY2ggcmVzcG9uc2UgbGVuZ3RoIG5vdCBlcXVhbCB0byAxIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWVsYXN0aWNzZWFyY2ggInNxdWFyZS91cC9pdGVtcy9zZXJ2ZXIvc2VhcmNoL2VsYXN0aWNzZWFyY2giCg==</text>
+        <text encoding="base64">CQkJaWYgcmVzcG9uc2UuU2l6ZSAhPSAxIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXQuRmF0YWxmKCJjYWxsaW5nIHNlYXJjaCBmYWlsZWQgd2l0aCBlcnI6ICVzIiwgZXJyLkVycm9yKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIHJlc3AuQmF0Y2hlcwo=</text>
+        <text encoding="base64">CQltZXJjaGFudDJMIDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdXRpbC5XcmFwRXJyb3JBbmRQcmVwZW5kTWVzc2FnZShlcnIsICJVcGRhdGVCeVF1ZXJ5IGdlbmVyaWMgZXJyb3IiKQo=</text>
+        <text encoding="base64">CQltZXJjaGFudDEgMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>nil</text>
       </register>
     </registers>
     <search>
