@@ -38,9 +38,9 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/jobqueue.go" timestamp="1539291908959" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/test_util.go" timestamp="1539285198734">
-        <mark key="]" line="80" column="20" />
-        <mark key="^" line="80" column="20" />
-        <mark key="." line="80" column="20" />
+        <mark key="]" line="70" column="20" />
+        <mark key="^" line="70" column="20" />
+        <mark key="." line="70" column="20" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/model.go" timestamp="1539285138344">
         <mark key="[" line="80" column="26" />
@@ -88,19 +88,11 @@
         <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539292219917" />
-      <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/admin.go" timestamp="1539291372076">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/connectv2/inventory_connect_v2.go" timestamp="1539185399225">
         <mark key="[" line="630" column="0" />
         <mark key="]" line="630" column="0" />
         <mark key="^" line="629" column="102" />
         <mark key="." line="630" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539289494392">
-        <mark key="[" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/module.go" timestamp="1539292500526" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/script/start_local_elasticsearch" timestamp="1539288626828">
