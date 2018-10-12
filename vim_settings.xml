@@ -94,6 +94,7 @@
         <mark key="^" line="53" column="1" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/administrator/module.go" timestamp="1539291544731" />
+      <file name="$USER_HOME$/Development/go/src/square/up/invreporter/config/invreporter-common.yaml" timestamp="1539360213417" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539288739797">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
