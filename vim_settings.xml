@@ -13,11 +13,6 @@
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/bulk.go" timestamp="1539206386539">
         <mark key="[" line="248" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/search.go" timestamp="1539206161741">
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="400" column="0" />
-        <mark key="." line="400" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/querybuilder.go" timestamp="1539614157774" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/dbconnection/dbconnection_test.go" timestamp="1539617647657">
         <mark key="[" line="154" column="28" />
@@ -35,21 +30,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/commands/elasticsearch/elasticsearch.go" timestamp="1539355474730" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/indices_put_mapping.go" timestamp="1539355618946" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-staging.yaml" timestamp="1539616833750" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/module.go" timestamp="1539271866527">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-common.yaml" timestamp="1539291718156" />
       <file name="$USER_HOME$/Development/go/src/square/up/util/stringsutil/stringsutil_test.go" timestamp="1539284925492">
         <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539292219917" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539618197150">
-        <mark key="[" line="56" column="39" />
-        <mark key="]" line="56" column="39" />
-        <mark key="." line="56" column="39" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/module.go" timestamp="1539292500526" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/script/start_local_elasticsearch" timestamp="1539613106554">
         <mark key="[" line="51" column="7" />
@@ -58,11 +43,6 @@
         <mark key="^" line="53" column="1" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/administrator/module.go" timestamp="1539291544731" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api_test.go" timestamp="1539120243184">
-        <mark key="[" line="1321" column="0" />
-        <mark key="]" line="1321" column="0" />
-        <mark key="." line="1321" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/square/up/invreporter/config/invreporter-common.yaml" timestamp="1539360213417" />
       <file name="$USER_HOME$/Development/go/src/square/up/service/jobqueue/config.go" timestamp="1539291746101" />
     </filemarks>
