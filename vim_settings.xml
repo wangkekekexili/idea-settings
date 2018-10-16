@@ -87,12 +87,13 @@
         <mark key="]" line="239" column="0" />
         <mark key="." line="239" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1539706997078">
-        <mark key="[" line="4212" column="24" />
-        <mark key="]" line="3143" column="0" />
-        <mark key="." line="3143" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/model/merchant/ds_objects.go" timestamp="1539710042672">
+        <mark key="[" line="4214" column="13" />
+        <mark key="]" line="4214" column="13" />
+        <mark key="." line="4214" column="13" />
+        <mark key="^" line="4214" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1539706785036" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1539709911031" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/search_request.go" timestamp="1539701718064" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1539187855118">
         <mark key="[" line="2276" column="36" />
@@ -140,12 +141,15 @@
     <jumps />
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">CWdsb2cuSW5mb2YoInBhZ2luYXRpb24gdG9rZW4gdGVzdGluZyIpCglpZiBsZW4ocGFydHMpICE9IDQgewo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>f</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>req := SearchRequest{
 		MerchantToken: merchant,
 		StockLevel:    []merchantpb.StockLevel{},
@@ -155,29 +159,26 @@
 		t.Fatal(err)
 	}</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IDo9IFNlYXJjaFJlcXVlc3R7CgkJTWVyY2hhbnRUb2tlbjogbWVyY2hhbnQsCgkJU3RvY2tMZXZlbDogICAgW11tZXJjaGFudHBiLlN0b2NrTGV2ZWx7fSwKCX0KCXJlc3BvbnNlLCBlcnIgOj0gY2xpZW50LlNlYXJjaChjdHgsIHJlcSkKCWlmIGVyciAhPSBuaWwgewoJCXQuRmF0YWwoZXJyKQoJfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlUZXh0OiAgICAgICAgICB0ZXN0LnRleHQsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJdC5GYXRhbGYoIiV2IC0gZXhwZWN0ZWQgdG8gZ2V0ICV2IGl0ZW1zIGJhY2s7IGdvdCAldiIsIHRlc3QudGV4dCwgdGVzdC5leHBOdW1JdGVtcywgcmVzcG9uc2UuU2l6ZSkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlpZiByZXNwb25zZS5TaXplICE9IHRlc3QuZXhwTnVtSXRlbXMgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlyZXNwb25zZSwgZXJyIDo9IGNsaWVudC5TZWFyY2goY3R4LCByZXEpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>numNoStockLevel</text>
+        <text>f</text>
       </register>
     </registers>
     <search>
