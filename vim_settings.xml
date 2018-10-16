@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/elasticsearch_queue.go" timestamp="1539292130654" />
-      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/search.go" timestamp="1539206161741">
+      <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/search.go" timestamp="1539713642594">
         <mark key="[" line="400" column="0" />
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
@@ -148,9 +148,9 @@
         <mark key="^" line="309" column="42" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/flags/module.go" timestamp="1539712446479">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/bulk/script/boxer/build" timestamp="1539712032304">
         <mark key="[" line="35" column="0" />
@@ -163,6 +163,7 @@
         <mark key="^" line="53" column="1" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/administrator/module.go" timestamp="1539291544731" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539713324181" />
     </filemarks>
     <jumps />
     <registers>
