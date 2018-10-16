@@ -103,6 +103,7 @@
         <mark key="." line="3143" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/merchant_api.go" timestamp="1539634997776" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/search_request.go" timestamp="1539701718064" />
       <file name="$USER_HOME$/Development/go/src/square/up/inventory2/v3/server/inventory_connect_v2_test.go" timestamp="1539187855118">
         <mark key="[" line="2276" column="36" />
         <mark key="]" line="2276" column="36" />
@@ -126,11 +127,11 @@
       <file name="$USER_HOME$/Development/go/src/square/up/items/config/items-sjc1-staging.yaml" timestamp="1539616833750" />
       <file name="$USER_HOME$/Development/go/src/square/up/vendor/github.com/olivere/elastic/client.go" timestamp="1539636713929" />
       <file name="$USER_HOME$/Development/go/src/square/up/items/server/jobs/base_job_queue.go" timestamp="1539292219917" />
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539699992498">
-        <mark key="[" line="264" column="37" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client_test.go" timestamp="1539701771934">
+        <mark key="[" line="314" column="9" />
+        <mark key="]" line="309" column="42" />
+        <mark key="." line="309" column="42" />
+        <mark key="^" line="309" column="42" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/flags/module.go" timestamp="1539637953122">
         <mark key="[" line="101" column="0" />
@@ -155,37 +156,44 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQluZXdUZXN0Q2F0YWxvZ0l0ZW0obWVyY2hhbnQsICppdGVtQnVpbGRlcigpLlRva2VuKCJJVEVNMyIpLk5hbWUoIm9yYW5nZSBqdWljZSIpLkJ1aWxkKCksICp2YXJpYXRpb25CdWlsZGVyKCkuSXRlbVRva2VuKCJJVEVNMyIpLkJ1aWxkKCkpLAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQluZXdUZXN0Q2F0YWxvZ0l0ZW0obWVyY2hhbnQsICppdGVtQnVpbGRlcigpLlRva2VuKCJJVEVNMyIpLk5hbWUoIm9yYW5nZSBqdWljZSIpLkJ1aWxkKCksICp2YXJpYXRpb25CdWlsZGVyKCkuSXRlbVRva2VuKCJJVEVNMyIpLkJ1aWxkKCkpLAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQluZXdUZXN0Q2F0YWxvZ0l0ZW0obWVyY2hhbnQsICppdGVtQnVpbGRlcigpLlRva2VuKCJJVEVNMiIpLk5hbWUoImFwcGxlIHNvdXAiKS5CdWlsZCgpLCAqdmFyaWF0aW9uQnVpbGRlcigpLkl0ZW1Ub2tlbigiSVRFTTIiKS5CdWlsZCgpKSwK</text>
+      <register name="2" type="4">
+        <text>req := SearchRequest{
+		MerchantToken: merchant,
+		StockLevel:    []merchantpb.StockLevel{},
+	}
+	response, err := client.Search(ctx, req)
+	if err != nil {
+		t.Fatal(err)
+	}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQluZXdUZXN0Q2F0YWxvZ0l0ZW0obWVyY2hhbnQsICppdGVtQnVpbGRlcigpLlRva2VuKCJJVEVNMSIpLk5hbWUoImFwcGxlIGp1aWNlIikuQnVpbGQoKSwgKnZhcmlhdGlvbkJ1aWxkZXIoKS5JdGVtVG9rZW4oIklURU0xIikuQnVpbGQoKSksCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IDo9IFNlYXJjaFJlcXVlc3R7CgkJTWVyY2hhbnRUb2tlbjogbWVyY2hhbnQsCgkJU3RvY2tMZXZlbDogICAgW11tZXJjaGFudHBiLlN0b2NrTGV2ZWx7fSwKCX0KCXJlc3BvbnNlLCBlcnIgOj0gY2xpZW50LlNlYXJjaChjdHgsIHJlcSkKCWlmIGVyciAhPSBuaWwgewoJCXQuRmF0YWwoZXJyKQoJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlc3AuKQo=</text>
+        <text encoding="base64">CQlUZXh0OiAgICAgICAgICB0ZXN0LnRleHQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXMuY2xpZW50LkRlbGV0ZUluZGV4KCkuCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUluZGV4SXRlbXNJbkVsYXN0aWNzZWFyY2ggICAgICBCb29sRmxhZ0kK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUluZGV4SXRlbXNJbkVsYXN0aWNzZWFyY2ggICAgICBCb29sRmxhZ0kK</text>
+        <text encoding="base64">CQkJdC5GYXRhbGYoIiV2IC0gZXhwZWN0ZWQgdG8gZ2V0ICV2IGl0ZW1zIGJhY2s7IGdvdCAldiIsIHRlc3QudGV4dCwgdGVzdC5leHBOdW1JdGVtcywgcmVzcG9uc2UuU2l6ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIG0uaXRlbUZsYWdzLk1pZ3JhdGVTZWFyY2hUb0VsYXN0aWNzZWFyY2guCg==</text>
+        <text encoding="base64">CQlpZiByZXNwb25zZS5TaXplICE9IHRlc3QuZXhwTnVtSXRlbXMgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXNwb25zZSwgZXJyIDo9IGNsaWVudC5TZWFyY2goY3R4LCByZXEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>numNoStockLevel</text>
       </register>
     </registers>
     <search>
@@ -201,6 +209,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
