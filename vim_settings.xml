@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/config/test-development.yaml" timestamp="1539724342296">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Development/go/src/square/up/items/config/test-development.yaml" timestamp="1539783737159">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/square/up/items/connectv2/merchant_catalog.go" timestamp="1539721766881" />
       <file name="/a.dummy" timestamp="1539717606016">
@@ -157,7 +156,7 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539718697922">
+      <file name="$USER_HOME$/Development/go/src/square/up/items/server/search/elasticsearch/client.go" timestamp="1539783423125">
         <mark key="[" line="293" column="88" />
         <mark key="]" line="293" column="0" />
         <mark key="." line="293" column="0" />
@@ -166,34 +165,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGlzYWJsZUZhaWxlZEpvYkNvbXBsZXRpb246IHRydWUK</text>
+        <text encoding="base64">ICAgIEVsYXN0aWNzZWFyY2hJbmRleEpvYjoKICAgICAgZmV0Y2hpbmdRcG06IDYwMCAjIE1ha2UgaXQgYSB2ZXJ5IHNob3J0IGludGVydmFsIGZvciB0ZXN0LgogICAgICBkaXNhYmxlZDogZmFsc2UK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGlzYWJsZUZhaWxlZEpvYkNvbXBsZXRpb246IHRydWUK</text>
+        <text encoding="base64">ICAgIEVsYXN0aWNzZWFyY2hJbmRleEpvYjoKICAgICAgZmV0Y2hpbmdRcG06IDYwMCAjIE1ha2UgaXQgYSB2ZXJ5IHNob3J0IGludGVydmFsIGZvciB0ZXN0LgogICAgICBkaXNhYmxlZDogZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdW5pcXVlUmVxdWVzdHM6IHRydWUgIyBkb24ndCBlbnF1ZXVlIGpvYnMgd2hlbiBhbiBpZGVudGljYWwgam9iIGlzIGFscmVhZHkgZW5xdWV1ZWQK</text>
+        <text encoding="base64">ICAgICAgZGlzYWJsZUZhaWxlZEpvYkNvbXBsZXRpb246IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd29ya2Vyc1Blckhvc3Q6IDEK</text>
+        <text encoding="base64">ICAgICAgdW5pcXVlUmVxdWVzdHM6IHRydWUgIyBkb24ndCBlbnF1ZXVlIGpvYnMgd2hlbiBhbiBpZGVudGljYWwgam9iIGlzIGFscmVhZHkgZW5xdWV1ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWF4SnBzUGVySG9zdDogIDEwCg==</text>
+        <text encoding="base64">ICAgICAgd29ya2Vyc1Blckhvc3Q6IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWF4QXR0ZW1wdHM6ICAgIDMK</text>
+        <text encoding="base64">ICAgICAgbWF4SnBzUGVySG9zdDogIDEwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFja29mZk1zOiAgICAgIDUwMDAK</text>
+        <text encoding="base64">ICAgICAgbWF4QXR0ZW1wdHM6ICAgIDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hpbmdRcG06ICAgIDYwICMgZmV0Y2hlcyBwZXIgbWludXRlCg==</text>
+        <text encoding="base64">ICAgICAgYmFja29mZk1zOiAgICAgIDUwMDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWV0aG9kTmFtZTogSW5kZXhEb2N1bWVudAo=</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hpbmdRcG06ICAgIDYwICMgZmV0Y2hlcyBwZXIgbWludXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZTogRWxhc3RpY3NlYXJjaEluZGV4Sm9iU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgbWV0aG9kTmFtZTogSW5kZXhEb2N1bWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
